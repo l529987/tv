@@ -65,7 +65,11 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 中国天气,http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
 
 🇨🇳 新闻频道,#genre#
-暂时无台,
+CCTV-13,http://cntv.lat/tv/live.php?auth=231110&id=cctv13HD
+无线新闻,https://s2.pub/Y-20
+东森财经新闻,https://s2.pub/Y-22
+TVBS新闻,https://s2.pub/Y-30
+
 🇨🇳 电影频道,#genre#
 暂时无台,
 🇨🇳 港 澳 台,#genre#

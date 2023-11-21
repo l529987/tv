@@ -66,12 +66,35 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 
 🇨🇳 新闻频道,#genre#
 CCTV-13,http://cntv.lat/tv/live.php?auth=231110&id=cctv13HD
+Now 新闻,http://38.207.160.104:11012/live.php?date=231119&id=now-news
+中天新闻,http://38.207.160.104:11012/live.php?date=231119&id=cti-news
+TVBS,http://38.207.160.104:11012/live.php?date=231119&id=tvbs-hd
+TVBS新闻,http://38.207.160.104:11012/live.php?date=231119&id=tvbs-news
+东森新闻,http://38.207.160.104:11012/live.php?date=231119&id=ebc-news
+东森财经,http://38.207.160.104:11012/live.php?date=231119&id=ebc-finance
+台视新闻,http://38.207.160.104:11012/live.php?date=231119&id=ttv-news
+中视新闻,http://38.207.160.104:11012/live.php?date=231119&id=ctv-news
+非凡新闻,http://38.207.160.104:11012/live.php?date=231119&id=ustv-news
+寰宇新闻,http://38.207.160.104:11012/live.php?date=231119&id=global-news
+年代新闻,http://38.207.160.104:11012/live.php?date=231119&id=era-news
+镜新闻,http://38.207.160.104:11012/live.php?date=231119&id=mnews
+壹新闻,http://38.207.160.104:11012/live.php?date=231119&id=nexttv
 无线新闻,https://s2.pub/Y-20
 东森财经新闻,https://s2.pub/Y-22
 TVBS新闻,https://s2.pub/Y-30
 
 🇨🇳 电影频道,#genre#
-暂时无台,
+HBO,http://38.207.160.104:11012/live.php?date=231119&id=hbo-hd
+HBO Hits,http://38.207.160.104:11012/live.php?date=231119&id=hbo-hits-hd
+东森电影,http://38.207.160.104:11012/live.php?date=231119&id=ebc-movie
+龙祥时代,http://38.207.160.104:11012/live.php?date=231119&id=lstime
+好莱坞电影,http://38.207.160.104:11012/live.php?date=231119&id=hollywood-tw
+靖天电影,http://38.207.160.104:11012/live.php?date=231119&id=jtdy
+龙华电影,http://38.207.160.104:11012/live.php?date=231119&id=ltv-movies
+美亚电影,http://38.207.160.104:11012/live.php?date=231119&id=meiah-movies
+纬来电影,http://38.207.160.104:11012/live.php?date=231119&id=videoland-movie
+卫视电影台,http://38.207.160.104:11012/live.php?date=231119&id=star-chinese-movies
+
 🇨🇳 港 澳 台,#genre#
 凤凰中文,https://s2.pub/Y-10
 凤凰资讯,https://s2.pub/Y-11

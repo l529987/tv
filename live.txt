@@ -87,3 +87,17 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 重庆移动,https://cntv.lat/tv/live.php?auth=231110&id=mryyHD
 
 🌈 彩虹频道_6058,#genre#
+DORCEL TV HD,http://146.59.54.163/345/index.m3u8
+2,http://146.59.54.163/347/index.m3u8
+HUSTLER HD,http://146.59.54.163/348/index.m3u8
+HUSTLER TV,http://146.59.54.163/349/index.m3u8
+5,http://146.59.54.163/350/index.m3u8
+6,http://146.59.54.163/352/index.m3u8
+7,http://146.59.54.163/353/index.m3u8
+8,http://146.59.54.163/354/index.m3u8
+9,http://146.59.54.163/356/index.m3u8
+10,http://146.59.54.163/358/index.m3u8
+11,http://146.59.54.163/359/index.m3u8
+12,http://146.59.54.163/361/index.m3u8
+13,http://146.59.54.163/362/index.m3u8
+14,http://146.59.54.163/363/index.m3u8

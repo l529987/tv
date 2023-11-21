@@ -64,7 +64,7 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 西藏卫视,http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
 中国天气,http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
 
-浙江地方台🌈 彩虹
+浙江地方台,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8

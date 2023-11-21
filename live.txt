@@ -1,4 +1,4 @@
-央视频道,#genre#
+🇨🇳央视频道,#genre#
 CCTV-1,http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
 CCTV-2,http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
 CCTV-3,http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
@@ -28,7 +28,7 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 高尔夫网球,https://cntv.lat/tv/live.php?auth=231110&id=golfHD
 兵器科技,https://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
 
-卫视频道,#genre#
+🇨🇳卫视频道,#genre#
 北京卫视,http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
 浙江卫视,http://cntv.lat/tv/live.php?auth=231110&id=zhejiangHD
 东方卫视,http://cntv.lat/tv/live.php?auth=231110&id=shanghaiHD
@@ -64,7 +64,7 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 西藏卫视,http://cntv.lat/tv/live.php?auth=231110&id=xizangSD
 中国天气,http://cntv.lat/tv/live.php?auth=231110&id=tianqiSD
 
-浙江地方台,#genre#
+🇨🇳浙江地方台,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -74,7 +74,7 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-重庆地方台,#genre#
+🇨🇳重庆地方台,#genre#
 重庆新闻,https://cntv.lat/tv/live.php?auth=231110&id=CQTVNewsHD
 重庆影视,https://cntv.lat/tv/live.php?auth=231110&id=cqyingshiHD
 重庆社会与法,https://cntv.lat/tv/live.php?auth=231110&id=CQTVTrendyHD
@@ -86,21 +86,30 @@ CCTV-4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 爱看导视,https://cntv.lat/tv/live.php?auth=231110&id=aikanHD
 重庆移动,https://cntv.lat/tv/live.php?auth=231110&id=mryyHD
 
+电影轮播,#genre#
+李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
+周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
+刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
+李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
+甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
+黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
+王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
+
 🌈 彩虹频道_6058,#genre#
 DORCEL TV HD,http://146.59.54.163/345/index.m3u8
 2,http://146.59.54.163/347/index.m3u8
 HUSTLER HD,http://146.59.54.163/348/index.m3u8
 HUSTLER TV,http://146.59.54.163/349/index.m3u8
-5,http://146.59.54.163/350/index.m3u8
-6,http://146.59.54.163/352/index.m3u8
-7,http://146.59.54.163/353/index.m3u8
-8,http://146.59.54.163/354/index.m3u8
-9,http://146.59.54.163/356/index.m3u8
-10,http://146.59.54.163/358/index.m3u8
-11,http://146.59.54.163/359/index.m3u8
-12,http://146.59.54.163/361/index.m3u8
-13,http://146.59.54.163/362/index.m3u8
-14,http://146.59.54.163/363/index.m3u8
+O la la,http://146.59.54.163/350/index.m3u8
+PENTHOUSE TV,http://146.59.54.163/352/index.m3u8
+PENTHOUSE HD,http://146.59.54.163/353/index.m3u8
+babestv,http://146.59.54.163/354/index.m3u8
+p,http://146.59.54.163/356/index.m3u8
+REDLIGHT HD,http://146.59.54.163/358/index.m3u8
+
+VIVIDRED HD,http://146.59.54.163/361/index.m3u8
+EXXXOTICA,http://146.59.54.163/362/index.m3u8
+XXL,http://146.59.54.163/363/index.m3u8
 
 点播台1🔒_6058,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
@@ -848,3 +857,118 @@ MOND-187,https://siwazywcdn2.com:5278//zhongwenzimu/hbmV28Bl/index.m3u8
 HEYZO-2559,https://siwazywcdn2.com:5278//yazhouwuma/tHC3xmBl/index.m3u8
 ADN-017,https://siwazywcdn2.com:5278//zhongwenzimu/71AKDJUw/index.m3u8
 RCTD-341,https://siwazywcdn2.com:5278//zhongwenzimu/01l52txJ/index.m3u8
+
+点播台3🔒_6058,#genre#
+hmn-141-アンナ,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
+hnd-277板野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
+HND-774市川花音,https://siwazywcdn2.com:5278/zhongwenzimu/uYyvOsg1/index.m3u8
+HND-893深田,https://siwazywcdn2.com:5278/zhongwenzimu/WkPiX4Gg/index.m3u8
+HUSR-217韩国少女,https://siwazywcdn2.com:5278/zhongwenzimu/gXmNBVzx/index.m3u8
+ienf-183沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/cedc6150/index.m3u8
+IPX-783希岛,https://siwazywcdn2.com:5278/zhongwenzimu/OQk3LPAH/index.m3u8
+ipx-804乃雪,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/40c513c8/index.m3u8
+ipx-807藤井,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/db49a284/index.m3u8
+ipx-810加美杏奈,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/56e4e810/index.m3u8
+ipx-811枫カ,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/5c7b1d71/index.m3u8
+ipx-812桜空,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/72b9f9ca/index.m3u8
+ipx-814天海,https://t16.cdn2020.com:12340/video/m3u8/2022/02/14/71abeed7/index.m3u8
+ipx-818希岛,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/1c2e5f58/index.m3u8
+ipx-819相沢,https://t16.cdn2020.com:12340/video/m3u8/2022/02/17/6c266521/index.m3u8
+ipx-832桜空,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
+juc-952向井恋,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/9331955b/index.m3u8
+jul-840及川,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/b6d7a9c4/index.m3u8
+jul-850武藤,https://t16.cdn2020.com:12340/video/m3u8/2022/02/04/b8e04bdd/index.m3u8
+jul-858青田悠华,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/c21f9e6e/index.m3u8
+jul-901奥美遥,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/5c4dcd87/index.m3u8
+mdte-020横宫七海,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/0d78d5b9/index.m3u8
+mdtm-562渚,https://t11.cdn2020.com:12336/video/m3u8/2021/09/08/118fed33/index.m3u8
+mdtm-753相部屋,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/4a21555c/index.m3u8
+MEYD-647川上奈奈美,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+MIAA-235濑名,https://siwazywcdn2.com:5278/zhongwenzimu/YV7xtRCQ/index.m3u8
+MIAA-247,https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
+MIAA-290,https://siwazywcdn2.com:5278/zhongwenzimu/qupHU49O/index.m3u8
+MIAA-293,https://siwazywcdn2.com:5278/zhongwenzimu/J9Nj7VIB/index.m3u8
+MIAA-320,https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
+MIAA-329,https://siwazywcdn2.com:5278//zhongwenzimu/L946ZPST/index.m3u8
+MIAA-417,https://siwazywcdn2.com:5278/zhongwenzimu/f9MgVFG0/index.m3u8
+MIAA-482,https://siwazywcdn2.com:5278/zhongwenzimu/p8R5guw7/index.m3u8
+MIAA-489,https://siwazywcdn2.com:5278/zhongwenzimu/cRtCJ3WS/index.m3u8
+MIAA-501,https://siwazywcdn2.com:5278/zhongwenzimu/yfO8rAFc/index.m3u8
+MIAA-526,https://siwazywcdn2.com:5278/zhongwenzimu/zVRyg8mh/index.m3u8
+miaa-561水川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/83e57fcd/index.m3u8
+miaa-564るるちゃ,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b97d611d/index.m3u8
+miaa-567月乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/3980ed8c/index.m3u8
+miaa-569沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b9f4d487/index.m3u8
+miad-847大岛美绪,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/a523ea63/index.m3u8
+midv-034石原希望,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/7c717c2f/index.m3u8
+midv-036水卜,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/889f0529/index.m3u8
+MIFD-117方言少女,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+mkmp-011桜井友田彩也香,https://t10.cdn2020.com:12335/video/m3u8/2021/08/24/b5de94e4/index.m3u8
+mkon-014渚,https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
+mmus-034渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/d12cbf8f/index.m3u8
+mond-225加藤,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/ae05303e/index.m3u8
+MSFH-040吉永,https://siwazywcdn2.com:5278/zhongwenzimu/q5mp9dNO/index.m3u8
+MUDR-133代理妻子,https://siwazywcdn2.com:5278/zhongwenzimu/kjah84rx/index.m3u8
+mvsd-496白桃,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/3057aab9/index.m3u8
+NACR-389 玄葵葵木,https://siwazywcdn2.com:5278/zhongwenzimu/H5o3ZdkB/index.m3u8
+nacr-492单身单身,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/4fe25f9c/index.m3u8
+nnpj-490港城,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/9e57bb08/index.m3u8
+nsfs-055琴井,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/c3fc5539/index.m3u8
+pppd-995楪カ,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/ddf2c951/index.m3u8
+pppe-001水原,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/79064aed/index.m3u8
+pppe-008水川,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/d80590bf/index.m3u8
+PRED-244香椎花乃,https://siwazywcdn2.com:5278/zhongwenzimu/NkXpBtx1/index.m3u8
+PRED-314山岸逢花,https://siwazywcdn2.com:5278/zhongwenzimu/P4Xu7bep/index.m3u8
+rbd-223管野,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
+roe-032水野优香,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8
+SABA-632,https://siwazywcdn2.com:5278/zhongwenzimu/RNuKCE2w/index.m3u8
+saba-745美丽女孩,https://t16.cdn2020.com:12340/video/m3u8/2022/02/21/226a5975/index.m3u8
+SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+sdde-381姊弟浜崎真绪,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/cc697acb/index.m3u8
+SHKD-915舞原圣,https://siwazywcdn2.com:5278/zhongwenzimu/v0TUMNtC/index.m3u8
+shkd-982沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/832dd619/index.m3u8
+snis-162吉沢明歩,https://t16.cdn2020.com:12340/video/m3u8/2022/02/07/35e42440/index.m3u8
+sprd-1501青山凉香,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/f4aea001/index.m3u8
+ssis-096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
+ssis-273架乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/7492e618/index.m3u8
+ssis-285山手梨爱,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/e94594fb/index.m3u8
+ssis-287三上悠亜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/0d2ad410/index.m3u8
+ssis-293七ツ森,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4d62c1da/index.m3u8
+ssis-299爱宝,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/2b09cb68/index.m3u8
+ssis-301梦乃,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/14bd36ae/index.m3u8
+ssis-303星宫一花,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4bbe420f/index.m3u8
+ssis-309小宵,https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/79bca4e0/index.m3u8
+ssis-313三上悠亜,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/c0a7dc67/index.m3u8
+ssis-324山手梨爱,https://t16.cdn2020.com:12340/video/m3u8/2022/02/21/06811ff8/index.m3u8
+ssni-576琴井,https://t6s.cdn2020.com/video/m3u8/2021/02/25/82dff29e/index.m3u8
+ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+ssni-779乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/GrWsQLH1/index.m3u8
+ssni-783,https://siwazywcdn2.com:5278/zhongwenzimu/RyFetHz5/index.m3u8
+ssni-802,https://siwazywcdn2.com:5278/zhongwenzimu/oPM4z0bY/index.m3u8
+ssni-808鹰尾芽衣,https://siwazywcdn2.com:5278/zhongwenzimu/L9kmreDA/index.m3u8
+ssni-824儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/XNlqgRve/index.m3u8
+ssni-828,https://siwazywcdn2.com:5278/zhongwenzimu/FMriTsOa/index.m3u8
+ssni-832,https://siwazywcdn2.com:5278/zhongwenzimu/WMkiBKyw/index.m3u8
+ssni-927山崎水爱,https://siwazywcdn2.com:5278/zhongwenzimu/sGaJ3TAK/index.m3u8
+ssni-985七森莉莉,https://siwazywcdn2.com:5278/zhongwenzimu/ob12qUCg/index.m3u8
+ssni-989,https://siwazywcdn2.com:5278/zhongwenzimu/qiSH8T3J/index.m3u8
+stars-265本庄铃,https://t4s.cdn2020.com/video/m3u8/2020/10/14/c8e82dca/index.m3u8
+STARS-266永野,https://siwazywcdn2.com:5278/zhongwenzimu/nT7jF5hV/index.m3u8
+stars-318白川,https://t6s.cdn2020.com/video/m3u8/2021/02/14/a2a8a655/index.m3u8
+stars-330本庄铃,https://t7.cdn2020.com/video/m3u8/2021/04/08/0d25a975/index.m3u8
+toen-046加藤,https://t10.cdn2020.com:12335/video/m3u8/2021/08/12/c8e1f5a0/index.m3u8
+tppn-214妃,https://t16.cdn2020.com:12340/video/m3u8/2022/02/12/6e29802a/index.m3u8
+ure-076初川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/15b8c0eb/index.m3u8
+VEC-514C北野未奈,https://play92332.com/20220127/SAxdMU5i/1759kb/hls/index.m3u8
+venx-069相马茜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/040e9f76/index.m3u8
+venx-102相马茜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/f5166646/index.m3u8
+waaa-121沙月恵奈,https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/d7b90e8c/index.m3u8
+XMOM-18遥绫音,https://siwazywcdn2.com:5278/zhongwenzimu/U75r8Hdp/index.m3u8
+XVSR-586逢见莉香,https://siwazywcdn2.com:5278/zhongwenzimu/BS2qJGta/index.m3u8
+xvsr-610波多野结衣,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/ee9c2367/index.m3u8
+xvsr-612渡辺,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/edecc33f/index.m3u8
+xvsr-632逢见,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/b90fc686/index.m3u8
+ymdd-240白川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/ba7e3a25/index.m3u8
+ysn-565渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
+ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8

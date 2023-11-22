@@ -413,19 +413,169 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 
 🌈 彩虹频道_6058,#genre#
-DORCEL TV HD,http://146.59.54.163/345/index.m3u8
-2,http://146.59.54.163/347/index.m3u8
-HUSTLER HD,http://146.59.54.163/348/index.m3u8
-HUSTLER TV,http://146.59.54.163/349/index.m3u8
-O la la,http://146.59.54.163/350/index.m3u8
-PENTHOUSE TV,http://146.59.54.163/352/index.m3u8
-PENTHOUSE HD,http://146.59.54.163/353/index.m3u8
-babestv,http://146.59.54.163/354/index.m3u8
-p,http://146.59.54.163/356/index.m3u8
-REDLIGHT HD,http://146.59.54.163/358/index.m3u8
-VIVIDRED HD,http://146.59.54.163/361/index.m3u8
-EXXXOTICA,http://146.59.54.163/362/index.m3u8
-XXL,http://146.59.54.163/363/index.m3u8
+Playboy,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/527/index.m3u8
+Bazzers TV Europe,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/910/index.m3u8
+Blue Hustler,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/1064/index.m3u8
+Barely legal,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/871/index.m3u8
+Dorcel TV FHD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/878/index.m3u8
+Redlight HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/242/index.m3u8
+Private TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/243/index.m3u8
+Hustler HD Europe,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/244/index.m3u8
+Dorcel TV HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/245/index.m3u8
+Pink\'o TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/874/index.m3u8
+FrenchLover,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/2160/index.m3u8
+O-la-la,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/2161/index.m3u8
+Vivid Red HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/2162/index.m3u8
+Exxxotica HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/2397/index.m3u8
+XXL,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5009/index.m3u8
+Penthouse Passion,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5010/index.m3u8
+Penthouse Gold HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5011/index.m3u8
+Penthouse Quickies 1300k,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5012/index.m3u8
+Penthouse Quickies HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5013/index.m3u8
+Extasy 4K,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5014/index.m3u8
+Eroxxx HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/5015/index.m3u8
+A3 Bikini,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6165/index.m3u8
+Adult Time,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6166/index.m3u8
+Anal Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6167/index.m3u8
+Analized HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6168/index.m3u8
+AST TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6169/index.m3u8
+AST TV 2,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6170/index.m3u8
+Babes HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6171/index.m3u8
+Babes TV HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6172/index.m3u8
+Bang Bros HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6173/index.m3u8
+Bang!,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6174/index.m3u8
+Big Ass Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6175/index.m3u8
+Big Dick Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6176/index.m3u8
+Big Tits Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6177/index.m3u8
+Blacked HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6178/index.m3u8
+Blonde Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6179/index.m3u8
+Blowjob Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6180/index.m3u8
+Brazzers eXXtra,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6181/index.m3u8
+Brazzers HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6182/index.m3u8
+
+Playboy,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/527/index.m3u8
+Bazzers TV Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/910/index.m3u8
+Blue Hustler,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/1064/index.m3u8
+Barely legal,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/871/index.m3u8
+Dorcel TV FHD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/878/index.m3u8
+Redlight HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/242/index.m3u8
+Private TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/243/index.m3u8
+Hustler HD Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/244/index.m3u8
+Dorcel TV HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/245/index.m3u8
+Pink\'o TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/874/index.m3u8
+FrenchLover,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/2160/index.m3u8
+O-la-la,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/2161/index.m3u8
+Vivid Red HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/2162/index.m3u8
+Exxxotica HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/2397/index.m3u8
+XXL,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5009/index.m3u8
+Penthouse Passion,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5010/index.m3u8
+Penthouse Gold HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5011/index.m3u8
+Penthouse Quickies 1300k,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5012/index.m3u8
+Penthouse Quickies HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5013/index.m3u8
+Extasy 4K,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5014/index.m3u8
+Eroxxx HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5015/index.m3u8
+A3 Bikini,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6165/index.m3u8
+Adult Time,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6166/index.m3u8
+Anal Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6167/index.m3u8
+Analized HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6168/index.m3u8
+AST TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6169/index.m3u8
+AST TV 2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6170/index.m3u8
+Babes HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6171/index.m3u8
+Babes TV HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6172/index.m3u8
+Bang Bros HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6173/index.m3u8
+Bang!,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6174/index.m3u8
+Big Ass Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6175/index.m3u8
+Big Dick Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6176/index.m3u8
+Big Tits Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6177/index.m3u8
+Blacked HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6178/index.m3u8
+Blonde Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6179/index.m3u8
+Blowjob Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6180/index.m3u8
+Brazzers eXXtra,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6181/index.m3u8
+Brazzers HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6182/index.m3u8
+
+
+Brunette Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6183/index.m3u8
+cento x cento,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6184/index.m3u8
+Cherry Pimps,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6185/index.m3u8
+Club 17,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6186/index.m3u8
+Compilation Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6187/index.m3u8
+Cuckold Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6188/index.m3u8
+Cum Louder,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6189/index.m3u8
+Cum4k,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6190/index.m3u8
+Daughter Swap,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6191/index.m3u8
+Day with a Pornstar,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6192/index.m3u8
+DDF Busty,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6193/index.m3u8
+DDF Network,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6194/index.m3u8
+Digital Desire HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6195/index.m3u8
+Digital Playground HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6196/index.m3u8
+Dorcel Club,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6197/index.m3u8
+Dusk,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6198/index.m3u8
+Evil Angel HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6199/index.m3u8
+Evolved Fights,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6200/index.m3u8
+Extasy HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6201/index.m3u8
+Fake Taxi HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6202/index.m3u8
+Fap TV 2,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6203/index.m3u8
+Fap TV 3,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6204/index.m3u8
+Fap TV 4,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6205/index.m3u8
+Fap TV Anal,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6206/index.m3u8
+Fap TV BBW,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6207/index.m3u8
+Fap TV Compilation,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6208/index.m3u8
+Fap TV Lesbian,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6209/index.m3u8
+Fap TV Parody,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6210/index.m3u8
+Fap TV Teens,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6211/index.m3u8
+FemJoy,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6212/index.m3u8
+Fetish Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6213/index.m3u8
+Gangbang Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6214/index.m3u8
+Gay Adult TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6215/index.m3u8
+Got MYLF,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6216/index.m3u8
+Hands on Hardcore,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6217/index.m3u8
+Hard X,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6218/index.m3u8
+Hardcore Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6219/index.m3u8
+Hitzefrei HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6220/index.m3u8
+Holed,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6221/index.m3u8
+Hot and Mean,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6222/index.m3u8
+
+Brunette Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6183/index.m3u8
+cento x cento,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6184/index.m3u8
+Cherry Pimps,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6185/index.m3u8
+Club 17,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6186/index.m3u8
+Compilation Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6187/index.m3u8
+Cuckold Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6188/index.m3u8
+Cum Louder,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6189/index.m3u8
+Cum4k,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6190/index.m3u8
+Daughter Swap,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6191/index.m3u8
+Day with a Pornstar,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6192/index.m3u8
+DDF Busty,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6193/index.m3u8
+DDF Network,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6194/index.m3u8
+Digital Desire HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6195/index.m3u8
+Digital Playground HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6196/index.m3u8
+Dorcel Club,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6197/index.m3u8
+Dusk,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6198/index.m3u8
+Evil Angel HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6199/index.m3u8
+Evolved Fights,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6200/index.m3u8
+Extasy HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6201/index.m3u8
+Fake Taxi HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6202/index.m3u8
+Fap TV 2,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6203/index.m3u8
+Fap TV 3,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6204/index.m3u8
+Fap TV 4,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6205/index.m3u8
+Fap TV Anal,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6206/index.m3u8
+Fap TV BBW,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6207/index.m3u8
+Fap TV Compilation,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6208/index.m3u8
+Fap TV Lesbian,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6209/index.m3u8
+Fap TV Parody,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6210/index.m3u8
+Fap TV Teens,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6211/index.m3u8
+FemJoy,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6212/index.m3u8
+Fetish Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6213/index.m3u8
+Gangbang Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6214/index.m3u8
+Gay Adult TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6215/index.m3u8
+Got MYLF,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6216/index.m3u8
+Hands on Hardcore,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6217/index.m3u8
+Hard X,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6218/index.m3u8
+Hardcore Red TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6219/index.m3u8
+Hitzefrei HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6220/index.m3u8
+Holed,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6221/index.m3u8
+Hot and Mean,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6222/index.m3u8
+
 
 点播台1🔒_6058,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8

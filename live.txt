@@ -1,5 +1,4 @@
 🇨🇳 IPV6专区,#genre#
-东森新闻台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
@@ -113,6 +112,7 @@ CGTN纪录,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 康巴卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225695/1/index.m3u8?fmt=ts2hls
 
 🇨🇳 新闻频道,#genre#
+东森新闻台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
 CCTV-13,http://cntv.lat/tv/live.php?auth=231110&id=cctv13HD
 Now 新闻,http://38.207.160.104:11012/live.php?date=231119&id=now-news
 中天新闻,http://38.207.160.104:11012/live.php?date=231119&id=cti-news

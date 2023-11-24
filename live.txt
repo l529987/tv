@@ -537,25 +537,20 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 
 🌈 彩虹频道_6058,#genre#
-яK TV HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2963
-PASSIONXXX XXXH HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2964
-PASSIONXXX FEAT HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2965
-DUSK HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2968
-XY MIX HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2971
-XY PLUS HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2972
-babestv hd,http://vo01.mohdtv.com:8880/voby0326/92496642/2973
-SUPERONE HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2974
-PENTHOUSE PASS HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2975
-PENTHOUSE REAL HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2976
-PENTHOUSE GOLD HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2977
-EROXXX HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2978
-VIXEN HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2979
-VIVIDRED HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2980
-DORCELXXX HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2981
-DORCELTV HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2982
-P PRIVATE HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2983
-REDLIGHT HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2984
-HUSTLER HD,http://vo01.mohdtv.com:8880/voby0326/92496642/2985
+SL HOT-1,http://185.235.165.5:80/live/gasolina/gasolina/128764.ts
+SL HOT-2,http://185.235.165.5:80/live/gasolina/gasolina/267612.ts
+SL HOT-3,http://185.235.165.5:80/live/gasolina/gasolina/128770.ts
+SL HOT-4,http://185.235.165.5:80/live/gasolina/gasolina/138510.ts
+SL HOT-5,http://185.235.165.5:80/live/gasolina/gasolina/138526.ts
+SL HOT-6,http://185.235.165.5:80/live/gasolina/gasolina/138504.ts
+SL HOT-7,http://185.235.165.5:80/live/gasolina/gasolina/309877.ts
+SL HOT-8,http://185.235.165.5:80/live/gasolina/gasolina/309870.ts
+SL HOT-9,http://185.235.165.5:80/live/gasolina/gasolina/309869.ts
+CREAMPIE 1,http://185.235.165.5:80/live/gasolina/gasolina/131890.ts
+菊花,,http://185.235.165.5:80/live/gasolina/gasolina/773971.ts
+EROX  ᴴᴰ,http://185.235.165.5:80/live/gasolina/gasolina/773966.ts
+HUSTLER,http://185.235.165.5:80/live/gasolina/gasolina/773968.ts
+DUSK ,http://185.235.165.5:80/live/gasolina/gasolina/773969.ts
 
 点播台1🔒_6058,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8

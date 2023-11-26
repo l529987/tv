@@ -509,6 +509,23 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 陇上生活,http://www.pr666.site:4040/udp/239.255.30.73:8231
 YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 
+🇨🇳 宁夏地方台,#genre#
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv$源2
+宁夏卫视,rtmp://hls.ningxiahuangheyun.com/live/nxws1M$源3
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.flv$源2
+宁夏公共,rtmp://hls.ningxiahuangheyun.com/live/nxgg1M$源3
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.flv$源2
+宁夏经济,rtmp://hls.ningxiahuangheyun.com/live/nxjj1M$源3
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.flv$源2
+宁夏少儿,rtmp://hls.ningxiahuangheyun.com/live/nxse1M$源3
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.flv$源2
+宁夏文旅,rtmp://hls.ningxiahuangheyun.com/live/nxwl1M$源3
+
 电影轮播,#genre#
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
 周星驰,http://123.132.226.194:31028/hls/39/index.m3u8

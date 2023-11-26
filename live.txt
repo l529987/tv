@@ -158,9 +158,17 @@ AXN,http://116.11.140.231:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&aut
 东森戏剧,http://116.11.140.231:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB星河,http://116.11.140.231:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
 澳门莲花,http://116.11.140.231:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://171.108.239.75:8020/tsfile/live/1009_1.m3u8$贵港酒店
+东森电影,http://171.108.239.75:8020/tsfile/live/1010_1.m3u8$贵港酒店
+龙祥时代,http://171.108.239.75:8020/tsfile/live/1011_1.m3u8$贵港酒店
+私人影院,http://171.108.239.75:8020/tsfile/live/1014_1.m3u8$贵港酒店
+东森洋片,http://171.108.239.75:8020/tsfile/live/1016_1.m3u8$贵港酒店
+东森超视,http://171.108.239.110:8020/tsfile/live/1023_1.m3u8$贵港酒店
+
 三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
 三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
 三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1&$未知 1080P
+
 
 🇨🇳 北京地方台,#genre#
 北京新闻,http://zgntv.icu/live/bjtime.php?id=bjxw
@@ -355,6 +363,16 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 隆化电视,http://cu4.iblink.cn:8000/udp/239.253.93.174:6342
 承德电视,http://cu4.iblink.cn:8000/udp/239.253.94.28:6627
 崇礼电视,http://cu4.iblink.cn:8000/udp/239.253.93.147:6315
+
+🇨🇳 广西地方台,#genre#
+广西卫视,http://171.108.239.110:8020/tsfile/live/1058_1.m3u8$贵港酒店
+广西新闻,http://171.108.239.110:8020/tsfile/live/1107_1.m3u8$贵港酒店
+广西影视,http://171.108.239.110:8020/tsfile/live/1097_1.m3u8$贵港酒店
+广西都市,http://171.108.239.110:8020/tsfile/live/1106_1.m3u8$贵港酒店
+南宁新闻综合,http://171.108.239.110:8020/tsfile/live/1115_1.m3u8$贵港酒店
+南宁影视娱乐,http://171.108.239.110:8020/tsfile/live/1017_1.m3u8$贵港酒店
+南宁公共,http://171.108.239.110:8020/tsfile/live/1018_1.m3u8$贵港酒店
+
 
 🇨🇳 吉林地方台,#genre#
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8

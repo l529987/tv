@@ -124,19 +124,19 @@ CCTV17,http://117.32.84.73:8008/udp/239.109.205.88:8640
 🇨🇳 新闻频道,#genre#
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
-东森新闻,http://116.11.140.55:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.55:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🇨🇳 电影频道,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?
-天映经典,http://116.11.140.55:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://116.11.140.55:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://116.11.140.55:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
-AXN,http://116.11.140.55:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://116.11.140.55:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://116.11.140.55:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://116.11.140.231:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥时代,http://116.11.140.231:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://116.11.140.231:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+AXN,http://116.11.140.231:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://116.11.140.231:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://116.11.140.231:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://117.32.84.129:8008/udp/239.110.205.6:9770
 CHC高清电影,http://117.32.84.129:8008/udp/239.109.205.97:8712
 CHC高清电影,http://117.32.84.129:8008/udp/239.112.205.206:5140
@@ -145,17 +145,17 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 🇨🇳 港 澳 台,#genre#
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
-ELEVEN1,http://116.11.140.55:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
+ELEVEN1,http://116.11.140.231:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
 ELEVEN2,http://116.11.140.231:8181/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
-天映经典,http://116.11.140.55:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://116.11.140.55:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://116.11.140.231:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥时代,http://116.11.140.231:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
 私人影院,http://116.11.140.55:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
-AXN,http://116.11.140.55:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
-东森新闻,http://116.11.140.55:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.55:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://116.11.140.55:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://116.11.140.55:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
-东森戏剧,http://116.11.140.55:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
+AXN,http://116.11.140.231:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://116.11.140.231:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://116.11.140.231:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+东森戏剧,http://116.11.140.231:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB星河,http://116.11.140.231:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
 澳门莲花,http://116.11.140.231:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
 三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P

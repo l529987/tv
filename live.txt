@@ -713,8 +713,7 @@ Hardcore Red TV,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6219/index.m3u8
 Hitzefrei HD,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6220/index.m3u8
 Holed,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6221/index.m3u8
 Hot and Mean,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/6222/index.m3u8
-SL HOT-1,http://185.235.165.5:80/live/gasolina/gasolina/128764.ts#http://185.235.165.5:80/live/gasolina/gasolina/128764.ts
-
+SL HOT-1,http://185.235.165.5:80/live/gasolina/gasolina/128764.ts
 SL HOT-2,http://185.235.165.5:80/live/gasolina/gasolina/267612.ts
 SL HOT-3,http://185.235.165.5:80/live/gasolina/gasolina/128770.ts
 SL HOT-4,http://185.235.165.5:80/live/gasolina/gasolina/138510.ts
@@ -728,6 +727,21 @@ CREAMPIE 1,http://185.235.165.5:80/live/gasolina/gasolina/131890.ts
 EROX  ᴴᴰ,http://185.235.165.5:80/live/gasolina/gasolina/773966.ts
 HUSTLER,http://185.235.165.5:80/live/gasolina/gasolina/773968.ts
 DUSK ,http://185.235.165.5:80/live/gasolina/gasolina/773969.ts
+SL HOT-1,http://185.235.165.5:80/live/gasolina/gasolina/128764.ts$源2
+SL HOT-2,http://185.235.165.5:80/live/gasolina/gasolina/267612.ts$源2
+SL HOT-3,http://185.235.165.5:80/live/gasolina/gasolina/128770.ts$源2
+SL HOT-4,http://185.235.165.5:80/live/gasolina/gasolina/138510.ts$源2
+SL HOT-5,http://185.235.165.5:80/live/gasolina/gasolina/138526.ts$源2
+SL HOT-6,http://185.235.165.5:80/live/gasolina/gasolina/138504.ts$源2
+SL HOT-7,http://185.235.165.5:80/live/gasolina/gasolina/309877.ts$源2
+SL HOT-8,http://185.235.165.5:80/live/gasolina/gasolina/309870.ts$源2
+SL HOT-9,http://185.235.165.5:80/live/gasolina/gasolina/309869.ts$源2
+CREAMPIE 1,http://185.235.165.5:80/live/gasolina/gasolina/131890.ts$源2
+菊花,,http://185.235.165.5:80/live/gasolina/gasolina/773971.ts$源2
+EROX  ᴴᴰ,http://185.235.165.5:80/live/gasolina/gasolina/773966.ts$源2
+HUSTLER,http://185.235.165.5:80/live/gasolina/gasolina/773968.ts$源2
+DUSK ,http://185.235.165.5:80/live/gasolina/gasolina/773969.ts$源2
+
 
 点播台1🔒_6058,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8

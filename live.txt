@@ -145,6 +145,15 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 🇨🇳 港 澳 台,#genre#
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
+翡翠台,http://r.jdshipin.com/n90gt
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS$源2
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
 ELEVEN1,http://116.11.140.231:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
 ELEVEN2,http://116.11.140.231:8181/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
 天映经典,http://116.11.140.231:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0

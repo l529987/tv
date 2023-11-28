@@ -49,7 +49,9 @@ CCTV-8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/22
 CCTV-4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv4k
 CCTV-8K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv8k
 CCTV-16 4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv16-4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+江苏4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 🇨🇳 央视频道,#genre#
 CCTV1,http://117.32.84.73:8008/udp/239.109.205.118:8880
 CCTV2,http://117.32.84.73:8008/udp/239.109.205.106:8784
@@ -90,6 +92,37 @@ CCTV17,http://117.32.84.73:8008/udp/239.109.205.88:8640
 央视台球,http://117.32.84.73:8008/udp/239.111.205.70:5140
 央视文化精品,http://117.32.84.73:8008/udp/239.111.205.75:5140
 
+CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
+CCTV2,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
+CCTV3,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
+CCTV4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+CCTV5,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+CCTV5+,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
+CCTV6,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008886/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+CCTV7,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+CCTV8,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000001070/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3
+CCTV9,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+CCTV10,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+CCTV11,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+CCTV12,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+CCTV13,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
+CCTV14,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+CCTV15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
+CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
+女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+央视台球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 🇨🇳 卫视频道,#genre#
 中国教育1,http://117.32.84.73:8008/udp/239.109.205.78:8560
 中国教育1,http://117.32.84.73:8008/udp/239.112.205.201:5140
@@ -120,6 +153,49 @@ CCTV17,http://117.32.84.73:8008/udp/239.109.205.88:8640
 重庆卫视,http://117.32.84.73:8008/udp/239.112.205.179:5140
 兵团卫视,http://117.32.84.73:8008/udp/239.112.205.198:5140
 
+中国教育1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+中国教育2,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000047/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=3
+中国教育4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
+浙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
+广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014694/1.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3
+深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
+东方卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000019351/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3
+安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
+东南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000032695/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
+湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015436/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
+河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
+河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
+四川卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
+江西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
+山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000004134/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
+广西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
+贵州卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
+海南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
+辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+厦门卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
+山西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
+宁夏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040022/1.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
+西藏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
+新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
+农林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+延边卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
+安多卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
+兵团卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=3
+求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 🇨🇳 新闻频道,#genre#
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
@@ -180,14 +256,13 @@ TVB星河,http://116.11.140.231:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive
 
 
 🇨🇳 北京地方台,#genre#
-北京新闻,http://zgntv.icu/live/bjtime.php?id=bjxw
-北京文艺,http://zgntv.icu/live/bjtime.php?id=bjwy
-北京影视,http://zgntv.icu/live/bjtime.php?id=bjys
-北京财经,http://zgntv.icu/live/bjtime.php?id=bjcj
-北京生活,http://zgntv.icu/live/bjtime.php?id=bjsh
-北京体育休闲,http://zgntv.icu/live/bjtime.php?id=bjty
-北京纪实科教,http://zgntv.icu/live/bjtime.php?id=bjjs
-北京卡酷少儿,http://zgntv.icu/live/bjtime.php?id=bjkk
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000065/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000065&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031204/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000002709/1.m3u8?channel-id=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3
 
 🇨🇳 浙江地方台,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8

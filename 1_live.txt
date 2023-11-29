@@ -249,193 +249,72 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
 
 🇨🇳 新闻频道,#genre#
-CCTV-13,http://cntv.lat/tv/live.php?auth=231110&id=cctv13HD
-凤凰中文,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixtv_hd
-凤凰资讯,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixinfo_hd
-无线新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=inews_twn
-中天新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctinews
-东森新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvnews
-东森财经新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvcaijing_twn
-TVBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs
-TVBS新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs_n
-台视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ttvnews_twn
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ca73a13c37
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshinews_twn
-寰宇新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyuxinwen_twn
-民视新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvnew_taiwan
-非凡新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=feifannews_twn
-年代新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=niandainews_twn
-无线新闻,https://s2.pub/Y-20
-东森财经新闻,https://s2.pub/Y-22
-TVBS新闻,https://s2.pub/Y-30
+无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
+无线财经,https://i.125011.xyz/tvb.php?id=2&hq
+东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🇨🇳 电影频道,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?
-天映频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestialindo
-天映频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestial
-好莱坞电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hollywoodmovies_twn
-东森电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvmovie
-东森洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvwestern
-纬来电影,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandmovie
-龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cb7a1fec69
-龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lungxiangtime_twn
-美亚电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=meiyamovie_twn
-星卫电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=xingwei_movie
-龙华洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuawestern_twn
-星空电影 Movies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmovies_raj
-AXN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Axn
-CINEMAX,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cinemax_twn
-HBO1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Hbo
-HBO HITS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohead_twn
-HBO原创,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbosignature_twn
-HBO家庭,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=fyi_twn
-HBOHD,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohd_twn
+天映经典,http://116.11.140.231:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥时代,http://116.11.140.231:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://116.11.140.231:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+AXN,http://116.11.140.231:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://116.11.140.231:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://116.11.140.231:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://117.32.84.129:8008/udp/239.110.205.6:9770
+CHC高清电影,http://117.32.84.129:8008/udp/239.109.205.97:8712
+CHC高清电影,http://117.32.84.129:8008/udp/239.112.205.206:5140
+CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
 🇨🇳 港 澳 台,#genre#
-凤凰中文,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixtv_hd
-凤凰资讯,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixinfo_hd
-香港台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hkphoenix_twn
-无线新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=inews_twn
-无线财经台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbcaijing_twn
-TVB星河,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xinhe
-TVB J1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbxinhe_twn
-翡翠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jade_twn
-J2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=j2_twn
-明珠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=pearl_twn
-RTHK31,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk31_twn
-RTHK32,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk32_twn
-VIUTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viu1_twn
-VIUTV6,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viusix_twn
-爱奇艺,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Qiyi
-astro全挂,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Quanjia
-astro双星,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Shuangxing
-泰国电影,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ch3_pat
-astro欢喜台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Huahee
-astro小太阳,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xiaotaiyang
-HBO1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Hbo
-HBO HITS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohead_twn
-HBO原创,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbosignature_twn
-HBO家庭,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=fyi_twn
-HBOHD,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohd_twn
-龙祥电影台1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cb7a1fec69
-龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lungxiangtime_twn
-美亚电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=meiyamovie_twn
-星卫电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=xingwei_movie
-天映频道1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestialindo
-天映频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestial
-好莱坞电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hollywoodmovies_twn
-Thrill,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Thrill
-Boo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Boo
-星空电影 Movies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmovies_raj
-AXN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Axn
-AXNTW,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=axn_twn
-CINEMAX,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cinemax_twn
-龙华戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaxiju_twn
-龙华偶像,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaidol_twn
-龙华洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuawestern_twn
-爱尔达影剧台1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltadrama_twn
-爱尔达影剧台2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltayingju_twn
-爱尔达综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltazonghe
-民视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvhd_taiwan
-台视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ttv_taiwan
-台视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ttvnews_twn
-华视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctshd_twn
-中视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshihd_twn
-公视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctv_taiwan
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ca73a13c37
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshinews_twn
-民视新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvnew_taiwan
-民视台湾台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvtaiwan_twn
-民视第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuajingdian_twn
-三立台湾,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlitaiwan
-三立综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlizhonghe
-三立戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlixiju_twn
-中天综合,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctizhonghe
-中天娱乐,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctient
-中天新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctinews
-中天亚洲台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctiasia_twn
-TVBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs
-TVBS新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs_n
-TVBS欢乐台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbshuanle_twn
-八大第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badafirst
-八大综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badazhonghe
-八大戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badadrama
-纬来电影,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandmovie
-纬来日本台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandjapan
-纬来体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandsport
-东森新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvnews
-东森戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvdrama
-东森财经新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvcaijing_twn
-东森电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvmovie
-东森洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvwestern
-东森超视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvsuper
-东森综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvzhonghe
-寰宇新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyuxinwen_twn
-寰宇财经,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyutaiwan_twn
-非凡新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=feifannews_twn
-年代新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=niandainews_twn
-卫视中文台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=weishichinese_twn
-靖天卡通,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtiancartoon_twn
-靖天国际台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtianintl_twn
-动物星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=animalplanet_twn
-HGTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=HGTV
-探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ba86fcd935
-探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryhd_twn
-探索,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverych_twn
-探索亚洲,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverytwn_twn
-国家地理野生,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeowild_twn
-国家地理,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeohd_twn
-博斯运动 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport1_twn
-博斯运动2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport2_twn
-博斯高球1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf1_twn
-博斯高球2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf2_twn
-博斯网球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bositennis_twn
-ELEVEN 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=golfchannel_twn
-EYE戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvxiju_twn
-EYE旅游,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvtravel_twn
-CN卡通频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Cn
-CN卡通频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=momo1_twn
-亚洲美食,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=afc_twn
-美食星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=foodplanet_twn
-亚洲旅游台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=asiatravel_twn
-好消息2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=good2_twn
-大爱台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=daai_twn
-爱尔达体育1台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport1_twn
-爱尔达体育2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport2_twn
-爱尔达体育3台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport3_twn
-DaaiTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=DaaiTV
-新加坡CNA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cna
-DiscoveryTurbo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryturbo_twn
-MiaoMi,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=MiaoMi
-TLC旅游生活频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tlc
-One,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=One
-阿里郎Arirang,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=arirang_twn
+无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
+无线财经,https://i.125011.xyz/tvb.php?id=2&hq
+翡翠台,http://r.jdshipin.com/n90gt
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS$源2
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
+ELEVEN1,http://116.11.140.231:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
+ELEVEN2,http://116.11.140.231:8181/tsfile/live/1216_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://116.11.140.231:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥时代,http://116.11.140.231:8181/tsfile/live/1205_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://116.11.140.55:8181/tsfile/live/1210_1.m3u8?key=txiptv&playlive=1&authid=0
+AXN,http://116.11.140.231:8181/tsfile/live/1217_1.m3u8?key=txiptv&playlive=1&authid=0
+东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://116.11.140.231:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://116.11.140.231:8181/tsfile/live/1222_1.m3u8?key=txiptv&playlive=1&authid=0
+东森戏剧,http://116.11.140.231:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB星河,http://116.11.140.231:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=1&authid=0
+澳门莲花,http://116.11.140.231:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://171.108.239.75:8020/tsfile/live/1009_1.m3u8$贵港酒店
+东森电影,http://171.108.239.75:8020/tsfile/live/1010_1.m3u8$贵港酒店
+龙祥时代,http://171.108.239.75:8020/tsfile/live/1011_1.m3u8$贵港酒店
+私人影院,http://171.108.239.75:8020/tsfile/live/1014_1.m3u8$贵港酒店
+东森洋片,http://171.108.239.75:8020/tsfile/live/1016_1.m3u8$贵港酒店
+东森超视,http://171.108.239.110:8020/tsfile/live/1023_1.m3u8$贵港酒店
 
-凤凰中文,https://s2.pub/Y-10
-凤凰资讯,https://s2.pub/Y-11
-翡翠台,https://s2.pub/Y-12
-J2,https://s2.pub/Y-13
-明珠台,https://s2.pub/Y-14
-viutv,https://s2.pub/Y-15
-viutv6,https://s2.pub/Y-16
-HOY TV,https://s2.pub/Y-17
-无线财经资讯,https://s2.pub/Y-19
-无线新闻,https://s2.pub/Y-20
-东森财经新闻,https://s2.pub/Y-22
-TVBS新闻,https://s2.pub/Y-30
-纬来体育,https://s2.pub/Y-32
+三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
+三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
+三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1&$未知 1080P
+
 
 🇨🇳 北京地方台,#genre#
-北京新闻,http://zgntv.icu/live/bjtime.php?id=bjxw
-北京文艺,http://zgntv.icu/live/bjtime.php?id=bjwy
-北京影视,http://zgntv.icu/live/bjtime.php?id=bjys
-北京财经,http://zgntv.icu/live/bjtime.php?id=bjcj
-北京生活,http://zgntv.icu/live/bjtime.php?id=bjsh
-北京体育休闲,http://zgntv.icu/live/bjtime.php?id=bjty
-北京纪实科教,http://zgntv.icu/live/bjtime.php?id=bjjs
-北京卡酷少儿,http://zgntv.icu/live/bjtime.php?id=bjkk
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000065/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000065&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
+北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031204/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
+北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000002709/1.m3u8?channel-id=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3
+
 
 🇨🇳 浙江地方台,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8

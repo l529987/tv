@@ -641,6 +641,11 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 
 
 🇨🇳 山东地方台,#genre#
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 德州新闻,http://alivealone.litenews.cn/179/0d4aa29109194c9d8da23cc044614538.flv
 德州经济,http://alivealone.litenews.cn/179/185d5575759a47b4a687d0cd26999399.flv
 德州经济,http://alivealone.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670.flv

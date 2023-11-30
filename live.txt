@@ -279,6 +279,8 @@ TVB星河,http://116.11.140.231:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive
 
 
 🇨🇳 北京地方台,#genre#
+北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276
+北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=3
 北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000065/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000065&livemode=1&stbId=3
 北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
@@ -639,6 +641,9 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 
 
 🇨🇳 山东地方台,#genre#
+德州新闻,http://alivealone.litenews.cn/179/0d4aa29109194c9d8da23cc044614538.flv
+德州经济,http://alivealone.litenews.cn/179/185d5575759a47b4a687d0cd26999399.flv
+德州经济,http://alivealone.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670.flv
 微山1,http://blivealone.litenews.cn/b53/8c38a7404fcc41eebbe40b8abc09eae0.flv
 微山2,http://blivealone.litenews.cn/b53/fc030a672e9a4ee1a076a11622029429.flv
 济铁,http://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c.flv
@@ -673,6 +678,10 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 新泰综合,http://alivealone.litenews.cn/59/047fc0ac5f804bfaaf8a490913d216fc.flv
 新泰乡村,http://alivealone.litenews.cn/59/ef9a5cf77b4d4c0492eb726f591397ca.flv
 
+🇨🇳 黑龙江地方台,#genre#
+黑龙江影视,http://api2.52tb.xyz/info?id=765&token=20230405tndmhg
+黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
+
 🇨🇳 吉林地方台,#genre#
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
@@ -699,6 +708,15 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 沈阳综合,http://home.ofme.cn:8888/udp/232.0.0.206:1234
 辽宁体育,http://home.ofme.cn:8888/udp/232.0.0.216:1234
 辽宁教育,http://home.ofme.cn:8888/udp/232.0.0.241:1234
+
+🇨🇳 内蒙古地方台,#genre#
+内蒙古农牧,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg
+内蒙古新闻,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg
+内蒙古文体娱乐,http://api2.52tb.xyz/info?id=785&token=20230405tndmhg
+内蒙古经济生活,http://api2.52tb.xyz/info?id=787&token=20230405tndmhg
+内蒙古少儿频道,http://api2.52tb.xyz/info?id=784&token=20230405tndmhg
+内蒙古蒙古语卫视,http://api2.52tb.xyz/info?id=783&token=20230405tndmhg
+内蒙古蒙古语文化,http://api2.52tb.xyz/info?id=782&token=20230405tndmhg
 
 🇨🇳 青海地方台,#genre#
 青海卫视,http://220.167.170.149:4000/udp/239.120.1.64:8332

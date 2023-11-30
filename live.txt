@@ -123,6 +123,29 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+CCTV1,https://tvmvip.com/php/ak.php?id=cctv1
+CCTV1,https://tvmvip.com/php/ak.php?id=cctv1b
+CCTV2,https://tvmvip.com/php/ak.php?id=cctv2
+CCTV3,https://tvmvip.com/php/ak.php?id=cctv3
+CCTV4,https://tvmvip.com/php/ak.php?id=cctv4
+CCTV4欧洲,https://tvmvip.com/php/ak.php?id=cctv4o
+CCTV4美洲,https://tvmvip.com/php/ak.php?id=cctv4a
+CCTV5,https://tvmvip.com/php/ak.php?id=cctv5
+CCTV5,https://tvmvip.com/php/ak.php?id=cctv5b
+CCTV5+,https://tvmvip.com/php/ak.php?id=cctv5p
+CCTV5+,https://tvmvip.com/php/ak.php?id=cctv5p2
+CCTV6,https://tvmvip.com/php/ak.php?id=cctv6
+CCTV7,https://tvmvip.com/php/ak.php?id=cctv7
+CCTV8,https://tvmvip.com/php/ak.php?id=cctv8
+CCTV9,https://tvmvip.com/php/ak.php?id=cctv9
+CCTV10,https://tvmvip.com/php/ak.php?id=cctv10
+CCTV11,https://tvmvip.com/php/ak.php?id=cctv11
+CCTV12,https://tvmvip.com/php/ak.php?id=cctv12
+CCTV13,https://tvmvip.com/php/ak.php?id=cctv13
+CCTV14,https://tvmvip.com/php/ak.php?id=cctv14
+CCTV15,https://tvmvip.com/php/ak.php?id=cctv15
+CCTV17,https://tvmvip.com/php/ak.php?id=cctv17
+
 🇨🇳 卫视频道,#genre#
 中国教育1,http://117.32.84.73:8008/udp/239.109.205.78:8560
 中国教育1,http://117.32.84.73:8008/udp/239.112.205.201:5140
@@ -549,6 +572,34 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 崇礼电视,http://cu4.iblink.cn:8000/udp/239.253.93.147:6315
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 
+🇨🇳 四川地方台,#genre#
+内江公共,http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8?zsicd
+内江科教,http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8?zsicd
+内江综合,http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8?zsicd
+眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
+眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
+攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
+攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
+甘孜综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+乐山公共,http://channellive.leshantv.net/live/ch2.flv?zsicd
+乐山新闻综合,http://channellive.leshantv.net/live/ch1.flv?zsicd
+乐至综合,http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
+利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
+利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+什邡新闻频道,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+威远新闻综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8?zsicd
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+小金综合,http://xjlive.xjsc.gov.cn:8091/live/xwpd.m3u8?zsicd
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+筠连综合,http://118.122.78.172:89/live1/live1.m3u8?zsicd
+长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+
+
 🇨🇳 广西地方台,#genre#
 广西卫视,http://202.103.213.96:8888/udp/239.81.0.107:4056
 广西综艺,http://202.103.213.96:8888/udp/239.81.0.214:4056
@@ -579,6 +630,13 @@ IPTV高清院线,http://124.230.56.9:55555/udp/239.76.252.217:9000
 南宁新闻综合,http://171.108.239.110:8020/tsfile/live/1115_1.m3u8$贵港酒店
 南宁影视娱乐,http://171.108.239.110:8020/tsfile/live/1017_1.m3u8$贵港酒店
 南宁公共,http://171.108.239.110:8020/tsfile/live/1018_1.m3u8$贵港酒店
+
+🇨🇳 云南地方台,#genre#
+红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+红河州公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
+福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
+麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+
 
 🇨🇳 山东地方台,#genre#
 微山1,http://blivealone.litenews.cn/b53/8c38a7404fcc41eebbe40b8abc09eae0.flv
@@ -679,7 +737,16 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.flv$源2
 宁夏文旅,rtmp://hls.ningxiahuangheyun.com/live/nxwl1M$源3
 
-NewTV,#genre#
+🇨🇳 新疆地方台,#genre#
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+伊宁汉语综合,http://222.81.61.37:9898/out_1/index.m3u8?zxinjd
+伊宁维吾尔语,http://222.81.61.37:9898/out_2/index.m3u8?zxinjd
+
+
+🇨🇳 NewTV,#genre#
 超级电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
 动作电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
 明星大片,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
@@ -707,7 +774,7 @@ NewTV,#genre#
 黑莓动画,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
 
-IHOT,#genre#
+🇨🇳 IHOT,#genre#
 爱青春,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
@@ -720,7 +787,7 @@ IHOT,#genre#
 爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
-电影轮播,#genre#
+🇨🇳 电影轮播,#genre#
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
 周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
 刘德华,http://123.132.226.194:31028/hls/40/index.m3u8

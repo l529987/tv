@@ -412,6 +412,12 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+安徽经济生活,http://api2.52tb.xyz/info?id=581&token=20230405tndmhg
+安徽公共,http://api2.52tb.xyz/info?id=582&token=20230405tndmhg
+安徽农业科教,http://api2.52tb.xyz/info?id=583&token=20230405tndmhg
+安徽影视,http://api2.52tb.xyz/info?id=584&token=20230405tndmhg
+安徽综艺体育,http://api2.52tb.xyz/info?id=585&token=20230405tndmhg
+安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 
 🇨🇳 湖南地方台,#genre#
 湖南卫视,http://124.230.56.196:55555/udp/239.76.245.115:1234
@@ -504,6 +510,7 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 利川新闻综合,http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1704038399-0-0-6925f04d8efe10283376f4632ccbc454
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
+
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8$源2
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8$源2
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8$源2
@@ -512,6 +519,12 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8$源2
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8$源2
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8$源2
+
+湖北公共新闻,http://api2.52tb.xyz/info?id=543&token=20230405tndmhg
+湖北综合,http://api2.52tb.xyz/info?id=542&token=20230405tndmhg
+湖北教育,http://api2.52tb.xyz/info?id=545&token=20230405tndmhg
+湖北生活,http://api2.52tb.xyz/info?id=544&token=20230405tndmhg
+湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河南地方台,#genre#
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
@@ -747,6 +760,12 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 陇上生活,http://www.pr666.site:4040/udp/239.255.30.73:8231
 YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 
+甘肃经济,http://api2.52tb.xyz/info?id=661&token=20230405tndmhg
+甘肃公共,http://api2.52tb.xyz/info?id=663&token=20230405tndmhg
+甘肃文化影视,http://api2.52tb.xyz/info?id=662&token=20230405tndmhg
+甘肃少儿,http://api2.52tb.xyz/info?id=664&token=20230405tndmhg
+甘肃都市,http://api2.52tb.xyz/info?id=665&token=20230405tndmhg
+
 🇨🇳 宁夏地方台,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv$源2
@@ -780,6 +799,10 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 襄垣电视,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+
+山西社会与法治,http://api2.52tb.xyz/info?id=642&token=20230405tndmhg
+山西经济与科技,http://api2.52tb.xyz/info?id=643&token=20230405tndmhg
+山西文体生活,http://api2.52tb.xyz/info?id=644&token=20230405tndmhg
 
 🇨🇳 新疆地方台,#genre#
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd

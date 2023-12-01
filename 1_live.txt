@@ -650,6 +650,13 @@ CDTV6,http://223.87.160.11:55555/udp/udp/239.10.0.16:5140
 安康综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
 
 🇨🇳 内蒙古地方台,#genre#
+内蒙古农牧,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg
+内蒙古新闻,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg
+内蒙古文体娱乐,http://api2.52tb.xyz/info?id=785&token=20230405tndmhg
+内蒙古经济生活,http://api2.52tb.xyz/info?id=787&token=20230405tndmhg
+内蒙古少儿频道,http://api2.52tb.xyz/info?id=784&token=20230405tndmhg
+内蒙古蒙古语卫视,http://api2.52tb.xyz/info?id=783&token=20230405tndmhg
+内蒙古蒙古语文化,http://api2.52tb.xyz/info?id=782&token=20230405tndmhg
 乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
 乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
 乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8

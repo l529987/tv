@@ -649,6 +649,11 @@ CDTV6,http://223.87.160.11:55555/udp/udp/239.10.0.16:5140
 渭南新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 安康综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
 
+🇨🇳 内蒙古地方台,#genre#
+乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
+乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+
 电影轮播,#genre#
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
 周星驰,http://123.132.226.194:31028/hls/39/index.m3u8

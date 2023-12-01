@@ -368,6 +368,22 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
+🇨🇳 江苏地方台,#genre#
+江苏影视,http://api2.52tb.xyz/info?id=453&token=20230405tndmhg
+江苏综艺,http://api2.52tb.xyz/info?id=452&token=20230405tndmhg
+江苏新闻,http://api2.52tb.xyz/info?id=454&token=20230405tndmhg
+江苏城市,http://api2.52tb.xyz/info?id=451&token=20230405tndmhg
+江苏体育休闲,http://api2.52tb.xyz/info?id=455&token=20230405tndmhg
+江苏国际,http://api2.52tb.xyz/info?id=457&token=20230405tndmhg
+优漫卡通,http://api2.52tb.xyz/info?id=460&token=20230405tndmhg
+江苏教育,http://api2.52tb.xyz/info?id=459&token=20230405tndmhg
+466,http://api2.52tb.xyz/info?id=466&token=20230405tndmhg
+南京教科,http://api2.52tb.xyz/info?id=467&token=20230405tndmhg
+469,http://api2.52tb.xyz/info?id=469&token=20230405tndmhg
+468,http://api2.52tb.xyz/info?id=468&token=20230405tndmhg
+470,http://api2.52tb.xyz/info?id=470&token=20230405tndmhg
+南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
+
 🇨🇳 湖南地方台,#genre#
 湖南卫视,http://124.230.56.196:55555/udp/239.76.245.115:1234
 湖南经视,http://124.230.56.196:55555/udp/239.76.245.116:1234
@@ -454,6 +470,11 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 黄冈新闻,http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1704038399-0-0-467fc23b176dde216d3e41c725fd1b6b
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
+湖北公共新闻,http://api2.52tb.xyz/info?id=543&token=20230405tndmhg
+湖北综合,http://api2.52tb.xyz/info?id=542&token=20230405tndmhg
+湖北教育,http://api2.52tb.xyz/info?id=545&token=20230405tndmhg
+湖北生活,http://api2.52tb.xyz/info?id=544&token=20230405tndmhg
+湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河北地方台,#genre#
 河北卫视,http://cu4.iblink.cn:8000/udp/239.253.92.154:6011
@@ -498,6 +519,14 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 隆化电视,http://cu4.iblink.cn:8000/udp/239.253.93.174:6342
 承德电视,http://cu4.iblink.cn:8000/udp/239.253.94.28:6627
 崇礼电视,http://cu4.iblink.cn:8000/udp/239.253.93.147:6315
+
+🇨🇳 安徽地方台,#genre#
+安徽经济生活,http://api2.52tb.xyz/info?id=581&token=20230405tndmhg
+安徽公共,http://api2.52tb.xyz/info?id=582&token=20230405tndmhg
+安徽农业科教,http://api2.52tb.xyz/info?id=583&token=20230405tndmhg
+安徽影视,http://api2.52tb.xyz/info?id=584&token=20230405tndmhg
+安徽综艺体育,http://api2.52tb.xyz/info?id=585&token=20230405tndmhg
+安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 
 🇨🇳 重庆地方台,#genre#
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -605,6 +634,13 @@ CDTV6,http://223.87.160.11:55555/udp/udp/239.10.0.16:5140
 长春文旅体育,http://play-hsbj.vzan.com/slowlive/313849570252687480/live.m3u8
 长春汽车,http://play-hsbj.vzan.com/slowlive/917989240738000763/live.m3u8
 
+🇨🇳 甘肃地方台,#genre#
+甘肃经济,http://api2.52tb.xyz/info?id=661&token=20230405tndmhg
+甘肃公共,http://api2.52tb.xyz/info?id=663&token=20230405tndmhg
+甘肃文化影视,http://api2.52tb.xyz/info?id=662&token=20230405tndmhg
+甘肃少儿,http://api2.52tb.xyz/info?id=664&token=20230405tndmhg
+甘肃都市,http://api2.52tb.xyz/info?id=665&token=20230405tndmhg
+
 🇨🇳 辽宁地方台,#genre#
 辽宁卫视,http://home.ofme.cn:8888/udp/232.0.0.126:1234
 辽宁影视,http://home.ofme.cn:8888/udp/232.0.0.25:1234
@@ -660,6 +696,11 @@ CDTV6,http://223.87.160.11:55555/udp/udp/239.10.0.16:5140
 乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
 乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
 乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+
+🇨🇳 山西地方台,#genre#
+山西社会与法治,http://api2.52tb.xyz/info?id=642&token=20230405tndmhg
+山西经济与科技,http://api2.52tb.xyz/info?id=643&token=20230405tndmhg
+山西文体生活,http://api2.52tb.xyz/info?id=644&token=20230405tndmhg
 
 电影轮播,#genre#
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8

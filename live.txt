@@ -723,6 +723,9 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 内蒙古少儿频道,http://api2.52tb.xyz/info?id=784&token=20230405tndmhg
 内蒙古蒙古语卫视,http://api2.52tb.xyz/info?id=783&token=20230405tndmhg
 内蒙古蒙古语文化,http://api2.52tb.xyz/info?id=782&token=20230405tndmhg
+乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
+乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
 
 🇨🇳 青海地方台,#genre#
 青海卫视,http://220.167.170.149:4000/udp/239.120.1.64:8332

@@ -273,10 +273,11 @@ TVB星河,http://116.11.140.52:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=
 东森洋片,http://171.108.239.131:8020/tsfile/live/1016_1.m3u8$贵港酒店
 东森超视,http://171.108.239.110:8020/tsfile/live/1023_1.m3u8$贵港酒店
 
+
 三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
 三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
 三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1&$未知 1080P
-
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 
 🇨🇳 北京地方台,#genre#
 北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276

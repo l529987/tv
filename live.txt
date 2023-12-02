@@ -53,27 +53,6 @@ CCTV-16 4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv16-4k
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 🇨🇳 央视频道,#genre#
-CCTV1,http://18.167.145.83:9870/go11.php?name=cctv1&t=1
-CCTV2,http://18.167.145.83:9870/go11.php?name=cctv2&t=1
-CCTV3,http://18.167.145.83:9870/go11.php?name=cctv3&t=1
-CCTV4,http://18.167.145.83:9870/go11.php?name=cctv4&t=1
-CCTV4欧洲,http://18.167.145.83:9870/go11.php?name=cctvoz&t=1
-CCTV4美洲,http://18.167.145.83:9870/go11.php?name=cctvmz&t=1
-CCTV5,http://18.167.145.83:9870/go11.php?name=cctv5&t=1
-CCTV5+,http://18.167.145.83:9870/go11.php?name=cctv51&t=1
-CCTV6,http://18.167.145.83:9870/go11.php?name=cctv6&t=1
-CCTV7,http://18.167.145.83:9870/go11.php?name=cctv7&t=1
-CCTV8,http://18.167.145.83:9870/go11.php?name=cctv8&t=1
-CCTV9,http://18.167.145.83:9870/go11.php?name=cctv9&t=1
-CCTV10,http://18.167.145.83:9870/go11.php?name=cctv10&t=1
-CCTV11,http://18.167.145.83:9870/go11.php?name=cctv11&t=1
-CCTV12,http://18.167.145.83:9870/go11.php?name=cctv12&t=1
-CCTV13,http://18.167.145.83:9870/go11.php?name=cctv13&t=1
-CCTV14,http://18.167.145.83:9870/go11.php?name=cctv14&t=1
-CCTV15,http://18.167.145.83:9870/go11.php?name=cctv15&t=1
-CCTV16,http://18.167.145.83:9870/go11.php?name=cctv16&t=1
-CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
-
 CCTV1,http://117.32.84.73:8008/udp/239.109.205.118:8880
 CCTV2,http://117.32.84.73:8008/udp/239.109.205.106:8784
 CCTV3,http://117.32.84.73:8008/udp/239.109.205.79:8568
@@ -166,6 +145,27 @@ CCTV13,https://tvmvip.com/php/ak.php?id=cctv13
 CCTV14,https://tvmvip.com/php/ak.php?id=cctv14
 CCTV15,https://tvmvip.com/php/ak.php?id=cctv15
 CCTV17,https://tvmvip.com/php/ak.php?id=cctv17
+
+CCTV1,http://18.167.145.83:9870/go11.php?name=cctv1&t=1
+CCTV2,http://18.167.145.83:9870/go11.php?name=cctv2&t=1
+CCTV3,http://18.167.145.83:9870/go11.php?name=cctv3&t=1
+CCTV4,http://18.167.145.83:9870/go11.php?name=cctv4&t=1
+CCTV4欧洲,http://18.167.145.83:9870/go11.php?name=cctvoz&t=1
+CCTV4美洲,http://18.167.145.83:9870/go11.php?name=cctvmz&t=1
+CCTV5,http://18.167.145.83:9870/go11.php?name=cctv5&t=1
+CCTV5+,http://18.167.145.83:9870/go11.php?name=cctv51&t=1
+CCTV6,http://18.167.145.83:9870/go11.php?name=cctv6&t=1
+CCTV7,http://18.167.145.83:9870/go11.php?name=cctv7&t=1
+CCTV8,http://18.167.145.83:9870/go11.php?name=cctv8&t=1
+CCTV9,http://18.167.145.83:9870/go11.php?name=cctv9&t=1
+CCTV10,http://18.167.145.83:9870/go11.php?name=cctv10&t=1
+CCTV11,http://18.167.145.83:9870/go11.php?name=cctv11&t=1
+CCTV12,http://18.167.145.83:9870/go11.php?name=cctv12&t=1
+CCTV13,http://18.167.145.83:9870/go11.php?name=cctv13&t=1
+CCTV14,http://18.167.145.83:9870/go11.php?name=cctv14&t=1
+CCTV15,http://18.167.145.83:9870/go11.php?name=cctv15&t=1
+CCTV16,http://18.167.145.83:9870/go11.php?name=cctv16&t=1
+CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 
 🇨🇳 卫视频道,#genre#
 中国教育1,http://117.32.84.73:8008/udp/239.109.205.78:8560

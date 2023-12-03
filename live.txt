@@ -397,6 +397,21 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 
+🇨🇳 江苏地方台,#genre#
+江苏影视,http://api2.52tb.xyz/info?id=453&token=20230405tndmhg
+江苏综艺,http://api2.52tb.xyz/info?id=452&token=20230405tndmhg
+江苏新闻,http://api2.52tb.xyz/info?id=454&token=20230405tndmhg
+江苏城市,http://api2.52tb.xyz/info?id=451&token=20230405tndmhg
+江苏体育休闲,http://api2.52tb.xyz/info?id=455&token=20230405tndmhg
+江苏国际,http://api2.52tb.xyz/info?id=457&token=20230405tndmhg
+优漫卡通,http://api2.52tb.xyz/info?id=460&token=20230405tndmhg
+江苏教育,http://api2.52tb.xyz/info?id=459&token=20230405tndmhg
+466,http://api2.52tb.xyz/info?id=466&token=20230405tndmhg
+南京教科,http://api2.52tb.xyz/info?id=467&token=20230405tndmhg
+469,http://api2.52tb.xyz/info?id=469&token=20230405tndmhg
+468,http://api2.52tb.xyz/info?id=468&token=20230405tndmhg
+470,http://api2.52tb.xyz/info?id=470&token=20230405tndmhg
+南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
 
 🇨🇳 福建地方台,#genre#
 福建综合,http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0

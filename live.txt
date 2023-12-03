@@ -793,6 +793,13 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
 
 🇨🇳 青海地方台,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
+西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+
 青海卫视,http://220.167.170.149:4000/udp/239.120.1.64:8332
 青海都市,http://220.167.170.149:4000/udp/239.120.1.41:8220
 青海经济,http://220.167.170.149:4000/udp/239.120.1.42:8226

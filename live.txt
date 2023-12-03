@@ -242,6 +242,8 @@ CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 🇨🇳 新闻频道,#genre#
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
 东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -263,6 +265,8 @@ CHC高清电影,http://117.32.84.129:8008/udp/239.112.205.206:5140
 CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
 🇨🇳 港 澳 台,#genre#
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
 翡翠台,http://r.jdshipin.com/n90gt
@@ -584,6 +588,14 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 
 🇨🇳 河北地方台,#genre#
+河北卫视,http://121.24.98.251:8090/hls/25/index.m3u8
+河北生活,http://121.24.98.251:8090/hls/26/index.m3u8
+河北农民,http://121.24.98.251:8090/hls/27/index.m3u8
+河北都市,http://121.24.98.251:8090/hls/28/index.m3u8
+河北影视,http://121.24.98.251:8090/hls/29/index.m3u8
+河北少儿科教,http://121.24.98.251:8090/hls/30/index.m3u8
+河北公共,http://121.24.98.251:8090/hls/31/index.m3u8
+
 河北卫视,http://cu4.iblink.cn:8000/udp/239.253.92.154:6011
 河北经济生活,http://cu4.iblink.cn:8000/udp/239.253.92.171:6001
 河北都市,http://cu4.iblink.cn:8000/udp/239.253.92.172:6002
@@ -695,6 +707,20 @@ IPTV高清院线,http://124.230.56.196:55555/udp/239.76.252.217:9000
 
 
 🇨🇳 山东地方台,#genre#
+山东齐鲁,http://221.0.78.198:1681/hls/10225/index.m3u8
+山东综艺,http://221.0.78.198:1681/hls/10220/index.m3u8
+山东文旅,http://221.0.78.198:1681/hls/10219/index.m3u8
+山东文旅,http://221.2.36.34:8888/newlive/live/hls/53/live.m3u8
+山东新闻,http://221.0.78.198:1681/hls/10222/index.m3u8
+山东农科,http://221.0.78.198:1681/hls/10223/index.m3u8
+山东体育,http://221.0.78.198:1681/hls/10224/index.m3u8
+山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
+山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
+山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+山东教育,http://221.2.36.34:8888/newlive/live/hls/52/live.m3u8
+济南新闻综合,http://221.0.78.198:1681/hls/10279/index.m3u8
+济南教育,http://221.0.78.198:1681/hls/10286/index.m3u8
+
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv

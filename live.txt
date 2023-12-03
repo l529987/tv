@@ -430,8 +430,10 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
 肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
 肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
-
-
+阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
+阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
+河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
+河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
 
 
 
@@ -562,6 +564,34 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 永州新闻,http://124.230.56.138:55555/udp/239.76.248.57:1234
 怀化综合,http://124.230.56.138:55555/udp/239.76.255.12:9000
 
+沅江电视台,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
+安化综合,https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
+临武综合,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+嘉禾综合,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
+桂东融媒,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
+龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
+屈原综合,https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
+汝城台,https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
+永兴综合,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
+攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
+汉寿综合,https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
+城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+新化综合,https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
+桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
+洪江综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+耒阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
+新邵综合,https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
+吉首综合,https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+麻阳综合,https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
+芷江综合,https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
+中方台,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+新晃时政,https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
+靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+古丈,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+花恒综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
 
 
 🇨🇳 湖北地方台,#genre#

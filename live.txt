@@ -668,6 +668,25 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 舞阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+祥荷电视台,http://tvpull.dxhmt.cn:9081/tv/10212-1.m3u8
+1,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+2,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+3,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+叶县电视台－1,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+汤阴,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+原阳电视台,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+4,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+襄城电视台,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+5,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+淅川电视台,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+6,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+镇平新闻综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+7,http://tvpull.dxhmt.cn:9081/tv/11422-1.m3u8
+8,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 
 🇨🇳 河北地方台,#genre#
 河北卫视,http://121.24.98.251:8090/hls/25/index.m3u8

@@ -699,6 +699,14 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 南宁公共,http://171.108.239.110:8020/tsfile/live/1018_1.m3u8$贵港酒店
 
 🇨🇳 云南地方台,#genre#
+云南影视HD,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+云南都市HD,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+云南娱乐HD,http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
+云南康旅HD,http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
+云南少儿HD,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
+昆明新闻HD,http://221.213.43.82:8888/newlive/live/hls/61/live.m3u8
+昆明教育HD,http://221.213.43.82:8888/newlive/live/hls/59/live.m3u8
+昆明春城民生,http://221.213.43.82:8888/newlive/live/hls/58/live.m3u8
 红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 红河州公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
@@ -797,12 +805,12 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 
 青海卫视,http://220.167.170.149:4000/udp/239.120.1.64:8332
 青海都市,http://220.167.170.149:4000/udp/239.120.1.41:8220
-青海经济,http://220.167.170.149:4000/udp/239.120.1.42:8226
+青海经视,http://220.167.170.149:4000/udp/239.120.1.42:8226
 安多藏语,http://220.167.170.149:4000/udp/239.120.1.40:8214
 西宁新闻,http://220.167.170.149:4000/udp/239.120.1.249:9444
 西宁生活,http://220.167.170.149:4000/udp/239.120.1.248:9440

@@ -295,7 +295,8 @@ TVB星河,http://116.11.140.52:8181/tsfile/live/1206_1.m3u8?key=txiptv&playlive=
 私人影院,http://171.108.239.131:8020/tsfile/live/1014_1.m3u8$贵港酒店
 东森洋片,http://171.108.239.131:8020/tsfile/live/1016_1.m3u8$贵港酒店
 东森超视,http://171.108.239.110:8020/tsfile/live/1023_1.m3u8$贵港酒店
-
+民视,p3p://108.181.32.169:57319/64251dd200003544ea55fe1c5eb00e42
+民视,p3p://108.181.32.169:57319/6442f24f00097e845edb5e492842265c
 
 三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
 三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
@@ -974,6 +975,17 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 山西文体生活,http://api2.52tb.xyz/info?id=644&token=20230405tndmhg
 
 🇨🇳 新疆地方台,#genre#
+新疆卫视,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-1
+新疆-2,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-2
+新疆-3,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-3
+新疆-4,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-4
+新疆-5,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-5
+新疆-7,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-7
+新疆-8,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-8
+新疆-9,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-9
+新疆-10,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-10
+新疆-11,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-11
+新疆-12,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-12
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd

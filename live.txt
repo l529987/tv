@@ -242,7 +242,8 @@ CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 🇨🇳 新闻频道,#genre#
-
+凤凰资讯,http://180.142.220.79:8181/tsfile/live/1082_1.m3u8
+凤凰中文,http://180.142.220.79:8181/tsfile/live/1083_1.m3u8
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
 东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -264,7 +265,10 @@ CHC高清电影,http://117.32.84.129:8008/udp/239.112.205.206:5140
 CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
 🇨🇳 港 澳 台,#genre#
-
+凤凰资讯,http://180.142.220.79:8181/tsfile/live/1082_1.m3u8
+凤凰中文,http://180.142.220.79:8181/tsfile/live/1083_1.m3u8
+香港台,http://180.142.220.79:8181/tsfile/live/1084_1.m3u8
+龙祥时代,http://180.142.220.79:8181/tsfile/live/1081_1.m3u8
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
 无线财经,https://i.125011.xyz/tvb.php?id=2&hq
 翡翠台,http://r.jdshipin.com/n90gt
@@ -420,6 +424,8 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+茂名综合,http://180.142.220.79:8181/tsfile/live/1070_1.m3u8
+茂名生活,http://180.142.220.79:8181/tsfile/live/1071_1.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg

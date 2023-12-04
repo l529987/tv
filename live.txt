@@ -270,8 +270,9 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 翡翠台,http://r.jdshipin.com/n90gt
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS$源2
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="綜合",明珠台
+http://r.jdshipin.com/ZQ4kN
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8

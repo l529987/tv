@@ -491,12 +491,19 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 
 
 🇨🇳 安徽地方台,#genre#
+安徽经济生活,http://mmitv.top/test/ahtv.php?id=12
+安徽公共,http://mmitv.top/test/ahtv.php?id=16
+安徽农业科教,http://mmitv.top/test/ahtv.php?id=14
+安徽综艺体育,http://mmitv.top/test/ahtv.php?id=17
+安徽影视,http://mmitv.top/test/ahtv.php?id=13
+
 安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+
 安徽经济生活,http://api2.52tb.xyz/info?id=581&token=20230405tndmhg
 安徽公共,http://api2.52tb.xyz/info?id=582&token=20230405tndmhg
 安徽农业科教,http://api2.52tb.xyz/info?id=583&token=20230405tndmhg

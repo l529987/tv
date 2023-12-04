@@ -873,6 +873,11 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 新泰乡村,http://alivealone.litenews.cn/59/ef9a5cf77b4d4c0492eb726f591397ca.flv
 
 🇨🇳 黑龙江地方台,#genre#
+黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江影视,http://api2.52tb.xyz/info?id=765&token=20230405tndmhg
 黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
 

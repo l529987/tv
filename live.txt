@@ -298,6 +298,12 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
 北京卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000002709/1.m3u8?channel-id=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3
+北京IPTV淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
+北京IPTV萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
+北京IPTV淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
+北京IPTV淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
+北京IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
+北京IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 
 🇨🇳 浙江地方台,#genre#
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8

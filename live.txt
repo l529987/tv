@@ -532,6 +532,18 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
 
+福建综合,http://49.235.110.121:9090/daili/bestv.php?id=fjzh
+福建新闻,http://49.235.110.121:9090/daili/bestv.php?id=fjxw
+福建电视剧,http://49.235.110.121:9090/daili/bestv.php?id=fjdsj
+福建经济,http://49.235.110.121:9090/daili/bestv.php?id=fjjj
+福建文体,http://49.235.110.121:9090/daili/bestv.php?id=fjwt
+福建少儿,http://49.235.110.121:9090/daili/bestv.php?id=fjse
+福建旅游,http://49.235.110.121:9090/daili/bestv.php?id=fjly
+福建公共,http://49.235.110.121:9090/daili/bestv.php?id=fjgg
+福建教育,http://49.235.110.121:9090/daili/bestv.php?id=fjjy
+海峡卫视,http://49.235.110.121:9090/daili/bestv.php?id=hxws
+
+
 🇨🇳 江西地方台,#genre#
 江西卫视,http://gzly.hkychina.com:6001/udp/239.252.220.63:5140
 江西都市频道,http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
@@ -888,13 +900,13 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 云南少儿,http://49.235.110.121:9090/daili/云南.php?id=ynse
 云南康旅,http://49.235.110.121:9090/daili/云南.php?id=ynkl
 
-云南影视HD,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
-云南都市HD,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
-云南娱乐HD,http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
-云南康旅HD,http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
-云南少儿HD,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
-昆明新闻HD,http://221.213.43.82:8888/newlive/live/hls/61/live.m3u8
-昆明教育HD,http://221.213.43.82:8888/newlive/live/hls/59/live.m3u8
+云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+云南娱乐,http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
+云南康旅,http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
+云南少儿,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
+昆明新闻,http://221.213.43.82:8888/newlive/live/hls/61/live.m3u8
+昆明教育,http://221.213.43.82:8888/newlive/live/hls/59/live.m3u8
 昆明春城民生,http://221.213.43.82:8888/newlive/live/hls/58/live.m3u8
 红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 红河州公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
@@ -977,6 +989,14 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 长春市民生活,http://play-hsbj.vzan.com/slowlive/068896930987809806/live.m3u8
 长春文旅体育,http://play-hsbj.vzan.com/slowlive/313849570252687480/live.m3u8
 长春汽车,http://play-hsbj.vzan.com/slowlive/917989240738000763/live.m3u8
+
+🇨🇳 陕西地方台,#genre#
+西安新闻,http://49.235.110.121:9090/daili/xa.php?id=xaxw
+西安都市,http://49.235.110.121:9090/daili/xa.php?id=xads
+西安商务,http://49.235.110.121:9090/daili/xa.php?id=xasw
+西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
+西安丝路,http://49.235.110.121:9090/daili/xa.php?id=xasl
+西安移动,http://49.235.110.121:9090/daili/xa.php?id=xayd
 
 🇨🇳 辽宁地方台,#genre#
 辽宁卫视,http://home.ofme.cn:8888/udp/232.0.0.126:1234

@@ -318,6 +318,17 @@ ELTA影剧,https://zb.ran-ran.net:443/198proxy.php?id=ardyj
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 
 🇨🇳 北京地方台,#genre#
+北京卫视,http://49.235.110.121:9090/daili/bjtv.php?id=bjws
+北京新闻,http://49.235.110.121:9090/daili/bjtv.php?id=bjxw
+北京文艺,http://49.235.110.121:9090/daili/bjtv.php?id=bjwy
+北京生活,http://49.235.110.121:9090/daili/bjtv.php?id=bjsh
+北京财经,http://49.235.110.121:9090/daili/bjtv.php?id=bjcj
+北京影视,http://49.235.110.121:9090/daili/bjtv.php?id=bjys
+北京纪实科教,http://49.235.110.121:9090/daili/bjtv.php?id=jskj
+北京体育休闲,http://49.235.110.121:9090/daili/bjtv.php?id=tyxx
+北京卡酷少儿,http://49.235.110.121:9090/daili/bjtv.php?id=kkse
+北京IPTV淘电影,http://49.235.110.121:9090/daili/电影.php?id=16
+
 北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276
 北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 北京纪实科教,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000026/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000026&livemode=1&stbId=3
@@ -870,6 +881,13 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 
 
 🇨🇳 云南地方台,#genre#
+云南卫视,http://49.235.110.121:9090/daili/云南.php?id=ynws
+云南影视,http://49.235.110.121:9090/daili/云南.php?id=ynys
+云南都市,http://49.235.110.121:9090/daili/云南.php?id=ynds
+云南娱乐,http://49.235.110.121:9090/daili/云南.php?id=ynyl
+云南少儿,http://49.235.110.121:9090/daili/云南.php?id=ynse
+云南康旅,http://49.235.110.121:9090/daili/云南.php?id=ynkl
+
 云南影视HD,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
 云南都市HD,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 云南娱乐HD,http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8

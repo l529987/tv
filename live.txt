@@ -232,11 +232,17 @@ CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
 东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
 东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
-东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
 年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
 非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
-
+东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
+东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
+中天新闻 ,https://zb.ran-ran.net:443/198proxy.php?id=ztxw
+中视新闻,https://zb.ran-ran.net:443/198proxy.php?id=zsxw
+TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
+东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
+东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
+年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
+非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
 
 🇨🇳 电影频道,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?
@@ -254,8 +260,14 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 东森电影,https://zb.ran-ran.net:443/198proxy.php?id=dsdy
 东森洋片,https://zb.ran-ran.net:443/198proxy.php?id=dsyp
 龙华洋片,https://zb.ran-ran.net:443/198proxy.php?id=lhyp
-
 龙祥时代,https://zb.ran-ran.net:443/198proxy.php?id=lxsd
+星卫电影台,https://zb.ran-ran.net:443/198proxy.php?id=xwdy
+美亚电影,https://zb.ran-ran.net:443/198proxy.php?id=mydy
+东森电影,https://zb.ran-ran.net:443/198proxy.php?id=dsdy
+东森洋片,https://zb.ran-ran.net:443/198proxy.php?id=dsyp
+龙华洋片,https://zb.ran-ran.net:443/198proxy.php?id=lhyp
+龙祥时代,https://zb.ran-ran.net:443/198proxy.php?id=lxsd
+
 🇨🇳 港 澳 台,#genre#
 凤凰资讯,http://180.142.220.79:8181/tsfile/live/1082_1.m3u8
 凤凰中文,http://180.142.220.79:8181/tsfile/live/1083_1.m3u8

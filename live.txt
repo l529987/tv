@@ -829,6 +829,13 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 四川TV7,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scxc
 四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=kbws
+成都新闻频道,http://xy123.ueuo.com/cdxgx.php?id=xwpd
+成都经济频道,http://xy123.ueuo.com/cdxgx.php?id=jjpd
+成都生活频道,http://xy123.ueuo.com/cdxgx.php?id=shpd
+成都影视频道,http://xy123.ueuo.com/cdxgx.php?id=yspd
+成都公共频道,http://xy123.ueuo.com/cdxgx.php?id=ggpd
+成都少儿频道,http://xy123.ueuo.com/cdxgx.php?id=sepd
+成都蓉城先锋,http://xy123.ueuo.com/cdxgx.php?id=rcxf
 内江公共,http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8?zsicd
 内江科教,http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8?zsicd
 内江综合,http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8?zsicd

@@ -822,6 +822,14 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 
 🇨🇳 四川地方台,#genre#
+四川新闻，http://lu1.cc/itv/sctv/scxl.php?id=scxw
+四川经济，http://lu1.cc/itv/sctv/scxl.php?id=scjj
+四川文化，http://lu1.cc/itv/sctv/scxl.php?id=scwhly
+四川影视，http://lu1.cc/itv/sctv/scxl.php?id=scyswy
+四川TV7，http://lu1.cc/itv/sctv/scxl.php?id=scfnet
+四川购物，http://lu1.cc/itv/sctv/scxl.php?id=scxkgw
+四川经济，http://lu1.cc/itv/sctv/scxl.php?id=scxc
+四川乡村，http://lu1.cc/itv/sctv/scxl.php?id=kbws
 内江公共,http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8?zsicd
 内江科教,http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8?zsicd
 内江综合,http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8?zsicd

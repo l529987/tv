@@ -718,6 +718,8 @@ ICS外语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951
 福建教育,http://e2.woc.iiiya.cn:8888/udp/239.61.5.60:1025
 厦门1,http://e2.woc.iiiya.cn:8888/udp/239.61.5.99:1025
 厦门2,http://e2.woc.iiiya.cn:8888/udp/239.61.4.140:1025
+泉州,rtmp://live.qztv.cn/live/news
+泉州4,rtmp://live.qztv.cn/live/mny
 宁德新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.96:1025
 南平新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.92:1025
 三沙卫视,http://e2.woc.iiiya.cn:8888/udp/239.61.5.191:1025
@@ -1296,11 +1298,11 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 
 🇨🇳 山西地方台,#genre#
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
- 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
- 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
- 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true 
- 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
- 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true 
+山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 山西影视,http://live.cooltv.top/tv/cutv.php?id=sxys
 山西文体生活,http://live.cooltv.top/tv/tide.php?id=sxwtsh
@@ -1322,24 +1324,76 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 山西文体生活,http://api2.52tb.xyz/info?id=644&token=20230405tndmhg
 
 🇨🇳 新疆地方台,#genre#
-新疆卫视,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-1
-新疆-2,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-2
-新疆-3,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-3
-新疆-4,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-4
-新疆-5,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-5
-新疆-7,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-7
-新疆-8,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-8
-新疆-9,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-9
-新疆-10,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-10
-新疆-11,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-11
-新疆-12,http://ott-iptv.top/shanxi/xinjiang.php?id=XJTV-12
+新疆卫视,http://office.gofaraway.top:888/udp/238.125.3.174:5140
+新疆2,http://office.gofaraway.top:888/udp/238.125.3.175:5140
+新疆3,http://office.gofaraway.top:888/udp/238.125.3.176:5140
+新疆4,http://office.gofaraway.top:888/udp/238.125.3.177:5140
+新疆5,http://office.gofaraway.top:888/udp/238.125.3.178:5140
+新疆6,http://office.gofaraway.top:888/udp/238.125.3.179:5140
+新疆7,http://office.gofaraway.top:888/udp/238.125.3.180:5140
+新疆8,http://office.gofaraway.top:888/udp/238.125.3.181:5140
+新疆9,http://office.gofaraway.top:888/udp/238.125.3.182:5140
+新疆10,http://office.gofaraway.top:888/udp/238.125.3.183:5140
+新疆11,http://office.gofaraway.top:888/udp/238.125.3.184:5140
+新疆12,http://office.gofaraway.top:888/udp/238.125.3.185:5140
+乌鲁木齐都市,http://office.gofaraway.top:888/udp/238.125.7.203:5140
+乌鲁木齐妇女,http://office.gofaraway.top:888/udp/238.125.7.205:5140
+乌鲁木齐影视,http://office.gofaraway.top:888/udp/238.125.7.202:5140
+乌鲁木齐综合,http://office.gofaraway.top:888/udp/238.125.7.200:5140
+伊犁哈萨克-1,http://office.gofaraway.top:888/udp/238.125.0.147:5140
+伊犁哈萨克-2,http://office.gofaraway.top:888/udp/238.125.0.148:5140
+伊犁哈萨克-3,http://office.gofaraway.top:888/udp/238.125.0.149:5140
+伊犁哈萨克-4,http://office.gofaraway.top:888/udp/238.125.0.150:5140
+巴音郭楞-1,http://office.gofaraway.top:888/udp/238.125.3.38:5140
+巴音郭楞-2,http://office.gofaraway.top:888/udp/238.125.3.39:5140
+巴音郭楞-3,http://office.gofaraway.top:888/udp/238.125.3.40:5140
+巴音郭楞-4,http://office.gofaraway.top:888/udp/238.125.3.43:5140
+包头-1,http://office.gofaraway.top:888/udp/238.125.3.12:5140
+包头-2,http://office.gofaraway.top:888/udp/238.125.3.13:5140
+包头-3,http://office.gofaraway.top:888/udp/238.125.3.14:5140
+巴州1,http://office.gofaraway.top:888/udp/238.125.7.38:5140
+巴州2,http://office.gofaraway.top:888/udp/238.125.7.39:5140
+巴州3,http://office.gofaraway.top:888/udp/238.125.7.40:5140
+巴州4,http://office.gofaraway.top:888/udp/238.125.7.43:5140
+霍城1,http://office.gofaraway.top:888/udp/238.125.7.7:5140
+霍城2,http://office.gofaraway.top:888/udp/238.125.7.6:5140
+喀什1,http://office.gofaraway.top:888/udp/238.125.3.214:5140
+喀什2,http://office.gofaraway.top:888/udp/238.125.3.215:5140
+喀什3,http://office.gofaraway.top:888/udp/238.125.3.216:5140
+克孜勒苏柯尔克孜1,http://office.gofaraway.top:888/udp/238.125.0.240:5140
+克孜勒苏柯尔克孜2,http://office.gofaraway.top:888/udp/238.125.4.241:5140
+克孜勒苏柯尔克孜3,http://office.gofaraway.top:888/udp/238.125.4.242:5140
+奎屯1,http://office.gofaraway.top:888/udp/238.125.3.248:5140
+奎屯3,http://office.gofaraway.top:888/udp/238.125.3.250:5140
+KTTV1,http://office.gofaraway.top:888/udp/238.125.7.185:5140
+呼图壁,http://office.gofaraway.top:888/udp/238.125.3.91:5140
+玛纳斯,http://office.gofaraway.top:888/udp/238.125.3.114:5140
+阿勒泰1,http://office.gofaraway.top:888/udp/238.125.7.54:5140
+阿勒泰2,http://office.gofaraway.top:888/udp/238.125.7.134:5140
+阿克苏1,http://office.gofaraway.top:888/udp/238.125.7.84:5140
+阿克苏2,http://office.gofaraway.top:888/udp/238.125.7.85:5140
+阿克苏3,http://office.gofaraway.top:888/udp/238.125.7.86:5140
+塔里木1,http://office.gofaraway.top:888/udp/238.125.7.120:5140
+塔里木2,http://office.gofaraway.top:888/udp/238.125.7.121:5140
+巴里坤1,http://office.gofaraway.top:888/udp/238.125.7.220:5140
+巴里坤2,http://office.gofaraway.top:888/udp/238.125.7.221:5140
+竹山1,http://office.gofaraway.top:888/udp/238.125.7.171:5140
+竹山2,http://office.gofaraway.top:888/udp/238.125.3.226:5140
+青河1,http://office.gofaraway.top:888/udp/238.125.7.226:5140
+青河2,http://office.gofaraway.top:888/udp/238.125.7.227:5140
+图木舒克1,http://office.gofaraway.top:888/udp/238.125.7.181:5140
+图木舒克2,http://office.gofaraway.top:888/udp/238.125.7.182:5140
+YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
+YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
+十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
+
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊宁汉语综合,http://222.81.61.37:9898/out_1/index.m3u8?zxinjd
 伊宁维吾尔语,http://222.81.61.37:9898/out_2/index.m3u8?zxinjd
-
+石河子新闻,rtmp://124.88.144.73:1935/live/xwzh
 
 🇨🇳 NewTV,#genre#
 超级电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3

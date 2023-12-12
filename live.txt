@@ -90,7 +90,7 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 东南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 云南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 内蒙古卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西卫视 3.5M576,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+陕西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 
 「上海」新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 「上海」五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
@@ -1446,6 +1446,7 @@ YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
 黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
+林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 
 🌈 彩虹频道_6058,#genre#
 Playboy,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/527/index.m3u8

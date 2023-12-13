@@ -466,7 +466,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
 无线新闻台,https://zb.ran-ran.net:443/198proxy.php?id=wxxw
 TVB星河,https://zb.ran-ran.net:443/198proxy.php?id=tvbxh
-Now 星影台,tvbus://2wvykSrcG6BjDZzz53br9cvvgeX4eSrc1mA2Mays8rrMtotKuw
+
 公视,https://zb.ran-ran.net:443/198proxy.php?id=gs
 台视,https://zb.ran-ran.net:443/198proxy.php?id=ts
 华视,https://zb.ran-ran.net:443/198proxy.php?id=hs
@@ -1218,6 +1218,12 @@ IPTV高清院线,http://124.230.56.138:55555/udp/239.76.252.217:9000
 西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
 西安丝路,http://49.235.110.121:9090/daili/xa.php?id=xasl
 西安移动,http://49.235.110.121:9090/daili/xa.php?id=xayd
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
 🇨🇳 辽宁地方台,#genre#
 辽宁卫视,http://home.ofme.cn:8888/udp/232.0.0.126:1234

@@ -466,6 +466,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
 无线新闻台,https://zb.ran-ran.net:443/198proxy.php?id=wxxw
 TVB星河,https://zb.ran-ran.net:443/198proxy.php?id=tvbxh
+Now 星影台,tvbus://2wvykSrcG6BjDZzz53br9cvvgeX4eSrc1mA2Mays8rrMtotKuw
 公视,https://zb.ran-ran.net:443/198proxy.php?id=gs
 台视,https://zb.ran-ran.net:443/198proxy.php?id=ts
 华视,https://zb.ran-ran.net:443/198proxy.php?id=hs

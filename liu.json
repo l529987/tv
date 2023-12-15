@@ -1,5 +1,6 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
-
+"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -293,8 +294,7 @@
 {"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
 {
-"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"sites": [
+
 //解X设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},

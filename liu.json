@@ -1,17 +1,8 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"./sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191",  
-    ]
-{
-"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🐷猪猪┃直播","type":0,"url":"https://agit.ai/cx/l/raw/branch/master/TV.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🐻熊熊┃备用","type":0,"url":"https://download.kstore.space/download/4677/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🐝初秋语┃直播","type":0,"url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🐇范明明┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/BigGrandG.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🦄Ray┃直播","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🛫港澳台┃飞","type":0,"url":"https://livednow.com/hmt.m3u?user_id=5799235408&user_token=862da93ff8a8efc8f67728ab8bf7315c","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🐬俊于┃直播","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"spider":"./sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191",
+"lives":[{"name":"live","type":0,"url":"./sub/live/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -305,8 +296,6 @@
 {"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
-{
-
 //解X设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
@@ -391,5 +380,5 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-}      
+}    
     

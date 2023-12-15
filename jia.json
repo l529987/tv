@@ -134,14 +134,14 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
-      "key": "CK资源",
-      "name": "CK 资源┃App",
+      "key": "xinlang",
+      "name": "新浪资源┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://caiji.nxflv.com/api.php/provide/vod"
+      "ext": "http://api.xinlangapi.com/xinlangapi.php/provide/vod"
     },  
     {
       "key": "诺迅资源",

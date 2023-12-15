@@ -141,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://ckzy.me/api.php/provide/vod/at/xml"
+      "ext": "https://ckzy.me/api.php/provide/vod"
     },  
     {
       "key": "卧龙资源",

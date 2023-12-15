@@ -1,7 +1,5 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
 {
-}
-
 "lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 "sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 

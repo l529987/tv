@@ -96,7 +96,7 @@
       },     
         {
             "key": "小苹果",
-            "name": "🍎主力源",
+            "name": "🍎主力源┃App",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -145,7 +145,7 @@
     },
     {
       "key": "量子资源",
-      "name": "量子资源",
+      "name": "量子资源┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,

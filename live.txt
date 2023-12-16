@@ -1129,6 +1129,14 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 崇礼电视,http://121.29.111.117:8888/udp/239.253.93.147:6315
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 
+河北卫视,http://111.225.92.130:8800/hls/17/index.m3u8
+河北经济生活,http://111.225.92.130:8800/hls/18/index.m3u8
+河北都市,http://111.225.92.130:8800/hls/19/index.m3u8
+河北影视剧,http://111.225.92.130:8800/hls/20/index.m3u8
+河北少儿科教,http://111.225.92.130:8800/hls/21/index.m3u8
+河北公共,http://111.225.92.130:8800/hls/22/index.m3u8
+河北农民,http://111.225.92.130:8800/hls/23/index.m3u8
+
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
@@ -1421,6 +1429,14 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+哈尔滨新闻http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+大庆新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 黑龙江影视,http://api2.52tb.xyz/info?id=765&token=20230405tndmhg
 黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
 

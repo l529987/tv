@@ -1021,6 +1021,23 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河南地方台,#genre#
+河南都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
+河南法治,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41103/index.m3u8
+河南新闻,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41105/index.m3u8
+河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+河南乡村,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41107/index.m3u8
+河南梨园,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13001/index.m3u8
+河南功夫,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41110/index.m3u8
+河南电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
+河南睛彩中原,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41108/index.m3u8
+河南移动戏曲,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41109/index.m3u8
+河南收藏天下,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41111/index.m3u8
+郑州新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
+1,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41119/index.m3u8
+焦作综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41120/index.m3u8
+
+
 河南都市,http://zzssw01.55555.io:85/tsfile/live/1002_1.m3u8?key=txiptv
 河南民生,http://zzssw01.55555.io:85/tsfile/live/1003_1.m3u8?key=txiptv
 河南法治,http://zzssw01.55555.io:85/tsfile/live/1004_1.m3u8?key=txiptv

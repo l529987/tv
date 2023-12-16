@@ -1480,6 +1480,17 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
 
 🇨🇳 吉林地方台,#genre#
+吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
+吉林都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
+吉林生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
+吉林影视,http://gongzhuling.lnott.top:58000/hls/21/index.m3u8
+吉林乡村,http://gongzhuling.lnott.top:58000/hls/22/index.m3u8
+吉林公共,http://gongzhuling.lnott.top:58000/hls/23/index.m3u8
+吉林综艺,http://gongzhuling.lnott.top:58000/hls/24/index.m3u8
+东北戏曲,http://gongzhuling.lnott.top:58000/hls/25/index.m3u8
+延边卫视,http://gongzhuling.lnott.top:58000/hls/26/index.m3u8
+吉林教育,http://gongzhuling.lnott.top:58000/hls/27/index.m3u8
+长影频道,http://gongzhuling.lnott.top:58000/hls/28/index.m3u8
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8

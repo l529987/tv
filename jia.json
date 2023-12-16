@@ -113,6 +113,16 @@
       "ext": "http://cj.lziapi.com/api.php/provide/vod"
    },  
    {
+      "key": "xinlang",
+      "name": "🐝新浪资源┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://api.xinlangapi.com/xinlangapi.php/provide/vod"
+   },	
+   {
       "key": "555一（APP）",
       "name": "555一（APP）",
       "type": 3,

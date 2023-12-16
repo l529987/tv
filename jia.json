@@ -147,13 +147,13 @@
     },  
     {
       "key": "诺迅资源",
-      "name": "🐝诺迅资源┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "name": "️诺迅资源",
+      "type": 1,
+      "api": "https://caiji.nxflv.com/api.php/provide/vod",
+      "playUrl": "https://www.nxflv.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://collect.wolongzyw.com/api.php/provide/vod"
+      "filterable": 1,
     },  
     {
       "key": "heyik",

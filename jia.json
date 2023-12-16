@@ -148,7 +148,7 @@
     {
       "key": "诺迅资源",
       "name": "️诺迅资源",
-      "type": 1,
+      "type": 3,
       "api": "https://caiji.nxflv.com/api.php/provide/vod",
       "playUrl": "https://www.nxflv.com/?url=",
       "searchable": 1,

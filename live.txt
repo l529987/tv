@@ -1021,6 +1021,17 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河南地方台,#genre#
+河南都市,http://zzssw01.55555.io:85/tsfile/live/1002_1.m3u8?key=txiptv
+河南民生,http://zzssw01.55555.io:85/tsfile/live/1003_1.m3u8?key=txiptv
+河南法治,http://zzssw01.55555.io:85/tsfile/live/1004_1.m3u8?key=txiptv
+河南电视剧,http://zzssw01.55555.io:85/tsfile/live/1005_1.m3u8?key=txiptv
+河南新闻,http://zzssw01.55555.io:85/tsfile/live/1006_1.m3u8?key=txiptv
+河南移动戏曲,http://zzssw01.55555.io:85/tsfile/live/1007_1.m3u8?key=txiptv
+河南收藏天下,http://zzssw01.55555.io:85/tsfile/live/1008_1.m3u8?key=txiptv
+河南戏曲,http://zzssw01.55555.io:85/tsfile/live/1009_1.m3u8?key=txiptv
+河南中华功夫,http://zzssw01.55555.io:85/tsfile/live/1010_1.m3u8?key=txiptv
+河南百姓调解,http://zzssw01.55555.io:85/tsfile/live/1011_1.m3u8?key=txiptv
+
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8

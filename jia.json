@@ -146,16 +146,6 @@
       "categories": ["动漫","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","纪录片","体育"]
     },  
     {
-      "key": "诺迅资源",
-      "name": "️诺迅资源",
-      "type": 3,
-      "api": "https://caiji.nxflv.com/api.php/provide/vod",
-      "playUrl": "https://www.nxflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-    },  
-    {
       "key": "heyik",
       "name": "何以┃App",
       "type": 3,

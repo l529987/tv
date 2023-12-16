@@ -136,7 +136,7 @@
     {
       "key": "xinlang",
       "name": "新浪资源┃App",
-      "type": 3,
+      "type": 1,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,

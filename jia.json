@@ -102,7 +102,16 @@
       "changeable": 1,
       "ext": "http://www.heyik.cn/api.php/v1.vod"
     },
-
+    {
+      "key": "量子资源",
+      "name": "量子资源┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cj.lziapi.com/api.php/provide/vod"
+   },  
    {
       "key": "555一（APP）",
       "name": "555一（APP）",

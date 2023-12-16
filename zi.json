@@ -551,7 +551,7 @@
 {"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["sohu","SoHu","搜狐","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}}],
 
 
-"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/l529987/tv/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐷猪猪┃直播","type":0,"url":"https://agit.ai/cx/l/raw/branch/master/TV.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐻熊熊┃备用","type":0,"url":"https://download.kstore.space/download/4677/T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐝初秋语┃直播","type":0,"url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

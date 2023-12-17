@@ -284,24 +284,7 @@
         },
 
 {"key":"视觉","name":"视觉盛宴密码5525","type":3,"api":"csp_Appto","jar":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/fix1102.jar","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4="},
-    {
-      "key": "Bili1",
-      "name": "🅱哔哔 B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%93%94%e5%93%a9%e7%bb%bc%e5%90%88.json"
-    },
-        {
-            "key":"csp_影视解说",
-            "name":"B站★影视解说",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,"quickSearch":1,"filterable":1,
-            "ext":"https://agit.ai/haifeng2777/TVB/raw/branch/master/JSON/%e5%bd%b1%e8%a7%86%e8%a7%a3%e8%af%b4.json"
-        },
+    
 
  {"key":"电影雷达","name":"🛸雷达资源","type":1,"api":"https://cms.fxfkfz.top/api.php/provide/vod","playUrl":"json:http://vip.fxfkfz.top/home/api?type=ys&uid=2691400&key=bdgkmoqrtvxFLPSY14&url=","playerType": 1,"categories":["短剧","电影","电视剧","综艺","动漫","动画","纪录片"],"searchable":1,"quickSearch":1},
     {

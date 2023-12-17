@@ -1831,6 +1831,11 @@
 
 {"key":"TV酷┃APP","name":"TV酷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
+{"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_CK资源","name":"🐝CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"迷你库┃APP","name":"迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},

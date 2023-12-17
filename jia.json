@@ -999,7 +999,6 @@
 {"key":"damo","name":"大莫资源（采集）","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0, "categories": ["热门短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧","韩国剧","纪录片","悬疑片","动画片","犯罪片","奇幻片","邵氏电影","美国剧","日本剧","海外剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","3D 电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","伦理片","动画片","犯罪片","奇幻片","纪录片"]},
 {"key": "jisu","name": "采集丨极速","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"changeable":1,"categories":["动作片","爱情片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","纪录片","体育赛事","动漫","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","韩剧","日剧","马泰剧","台湾剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 {"key": "csp_XBPQ_freeok","name":"FREEOK影视☆自简","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"http://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
- { "key":"Bili", "name":"Bili", "type": 3, "api": "csp_Bili", "style":{"type":"rect","ratio":1.597}, "searchable":1, "quickSearch":0, "changeable":0, "ext":"https://xhdwc.tk/json/bilibili.json" },
 
  
 

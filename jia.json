@@ -1879,9 +1879,9 @@
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
 {"key":"优酷资源","name":"优酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车┃资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
-
+{"key":"独优影视","name":"独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"迷你库┃APP","name":"迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-
+{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 {"key":"映迷┃APP","name":"映迷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
@@ -3342,5 +3342,5 @@
     }
   ]
 }
-{"key":"csp_app_独优影视","name":"独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+
 

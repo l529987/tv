@@ -1845,7 +1845,7 @@ YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 
 🌈 彩虹频道_6058,#genre#
-Hustler HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
+Hustler HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/244/index.m3u8
 Redlight HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/242/index.m3u8
 Dorcel TV HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/245/index.m3u8
 Vivid Red HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/2162/index.m3u8

@@ -1874,9 +1874,11 @@
 {"key":"腾讯","name":"腾讯┃官源","type":3,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/tengxun.js"},
 {"key":"爱奇艺","name":"爱奇艺┃官源","type":3,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/iqy.js"},
 {"key":"芒果","name":"芒果┃官源","type":3,"playerType":2,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/mangguo.js"},
-{"key":"csp_xml_诺迅资源","name":"诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"csp_xml_CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_快车资源","name":"快车┃资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"诺迅资源","name":"诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
+{"key":"CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
+{"key":"优酷资源","name":"优酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"快车资源","name":"快车┃资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"迷你库┃APP","name":"迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 

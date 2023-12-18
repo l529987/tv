@@ -886,9 +886,11 @@
 
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key": "猫放","name": "猫放时光┃自.简","type": 3,"api": "csp_XBPQ","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.mervod.com/vodshow/{cateId}-{area}-{class}---------{catePg}.html","分类": "电影$1#电视剧$2#综艺$4#动漫$3#少儿$5"}},
+{"key":"csp_XYQHiker_BT天堂","name":"BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
+{"key": "csp_XYQHiker_高清MP4","name":"🏂MP4┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/高清MP4.json","jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"}, 
+{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 
-   
-
+	  
 {"key":"ngapp1","name":"南瓜影视1","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tvbox.top/lib/drpy2.min.js","ext":"http://tvbox.top/js/ng.js"},
 
  { "key": "49zy",

@@ -483,9 +483,9 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS$源2
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
-民視影劇,https://yeslivetv.com/channels/ftv-film/
-寰宇卫视,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1222
-寰宇卫视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
+
+寰宇新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1222
+寰宇新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
 中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1015
 中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242

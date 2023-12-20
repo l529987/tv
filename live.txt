@@ -470,10 +470,12 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 龙祥时代,https://zb.ran-ran.net:443/198proxy.php?id=lxsd
 
 🇨🇳 港 澳 台,#genre#
-凤凰资讯,http://180.142.220.79:8181/tsfile/live/1082_1.m3u8
-凤凰中文,http://180.142.220.79:8181/tsfile/live/1083_1.m3u8
-香港台,http://180.142.220.79:8181/tsfile/live/1084_1.m3u8
-龙祥时代,http://180.142.220.79:8181/tsfile/live/1081_1.m3u8
+无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=30024
+无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=20123
+无线财经体育资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30019
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127
+J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq

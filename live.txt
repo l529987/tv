@@ -1390,6 +1390,30 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 
 
 🇨🇳 广西地方台,#genre#
+广西卫视,http://rss.jtmi.vip:10001/udp/239.81.0.107:4056
+广西综艺,http://rss.jtmi.vip:10001/udp/239.81.0.214:4056
+广西影视,http://rss.jtmi.vip:10001/udp/239.81.0.250:4056
+广西都市,http://rss.jtmi.vip:10001/udp/239.81.0.247:4056
+广西新闻,http://rss.jtmi.vip:10001/udp/239.81.0.248:4056
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+南宁影视,http://rss.jtmi.vip:10001/udp/239.81.0.140:4056
+南宁新闻,http://rss.jtmi.vip:10001/udp/239.81.0.241:4056
+南宁公共,http://rss.jtmi.vip:10001/udp/239.81.0.141:4056
+南宁都市,http://rss.jtmi.vip:10001/udp/239.81.0.139:4056
+百色综合,http://rss.jtmi.vip:10001/udp/239.81.0.150:4056
+1,http://rss.jtmi.vip:10001/udp/239.81.0.172:4056
+2,http://rss.jtmi.vip:10001/udp/239.81.0.151:4056
+河池新闻综合,http://rss.jtmi.vip:10001/udp/239.81.0.168:4056
+来宾综合,http://rss.jtmi.vip:10001/udp/239.81.0.173:4056
+桂林新闻,,http://rss.jtmi.vip:10001/udp/239.81.0.174:4056
+柳州新闻,http://rss.jtmi.vip:10001/udp/239.81.0.175:4056
+北海新闻,http://rss.jtmi.vip:10001/udp/239.81.0.154:4056
+梧州新闻综合,http://rss.jtmi.vip:10001/udp/239.81.0.176:4056
+钦州综合,http://rss.jtmi.vip:10001/udp/239.81.0.164:4056
+玉林新闻,http://rss.jtmi.vip:10001/udp/239.81.0.177:4056
+贺州新闻,http://rss.jtmi.vip:10001/udp/239.81.0.163:4056
+
+
 广西卫视,http://opdf.top:8088/udp/239.81.0.107:4056
 广西综艺,http://opdf.top:8088/udp/239.81.0.214:4056
 广西影视,http://opdf.top:8088/udp/239.81.0.250:4056
@@ -1491,13 +1515,13 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 开州综合,http://183.66.66.199:2345/udp/235.254.198.145:1870
 秀山综合,http://183.66.66.199:2345/udp/235.254.199.239:7980
 
-重庆新闻HD,http://117.59.116.36/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆科教HD,http://117.59.116.36/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆影视HD,http://117.59.116.36/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-重庆社法HD,http://117.59.116.36/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
-重庆文娱HD,http://117.59.116.36/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-重庆新农HD,http://117.59.116.36/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-重庆时尚HD,http://117.59.116.36/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+重庆新闻,http://117.59.116.36/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+重庆科教,http://117.59.116.36/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+重庆影视,http://117.59.116.36/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+重庆社法,http://117.59.116.36/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
+重庆文娱,http://117.59.116.36/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+重庆新农,http://117.59.116.36/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+重庆时尚,http://117.59.116.36/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 重庆少儿,http://117.59.116.36/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 重庆移动,http://117.59.116.36/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
 爱看导视,http://117.59.116.36/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8

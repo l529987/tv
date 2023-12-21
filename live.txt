@@ -617,6 +617,11 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 通州融媒,http://webmail.axxe.top:4022/udp/239.3.1.221:8001
 
 🇨🇳 浙江地方台,#genre#
+浙江新闻HD,http://115.218.156.74:9999/rtp/233.50.201.137:5140
+浙江少儿HD,http://115.218.156.74:9999/rtp/233.50.201.138:5140
+
+
+
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -625,10 +630,23 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-HTV-2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
-HTV-3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
-HTV-4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
-HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+杭州导视,http://115.218.156.74:9999/rtp/233.50.201.182:5140
+杭州1综合,http://115.218.156.74:9999/rtp/233.50.201.173:5140
+杭州2明珠,http://115.218.156.74:9999/rtp/233.50.201.174:5140
+杭州3生活,http://115.218.156.74:9999/rtp/233.50.201.175:5140
+杭州4影视,http://115.218.156.74:9999/rtp/233.50.201.176:5140
+杭州5青少,http://115.218.156.74:9999/rtp/233.50.201.177:5140
+杭州2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+杭州3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+杭州4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+杭州5青少,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+宁波TV1,http://115.218.156.74:9999/rtp/233.50.201.168:5140
+宁波TV2,http://115.218.156.74:9999/rtp/233.50.201.178:5140
+宁波TV3,http://115.218.156.74:9999/rtp/233.50.201.179:5140
+宁波TV4,http://115.218.156.74:9999/rtp/233.50.201.180:5140
+宁波TV5,http://115.218.156.74:9999/rtp/233.50.201.181:5140
+温州新闻HD,http://115.218.156.74:9999/rtp/233.50.201.87:5140
+绍兴新闻HD,http://115.218.156.74:9999/rtp/233.50.201.156:5140
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -907,13 +925,13 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
 
 🇨🇳 福建地方台,#genre#
-福建综合,http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-福建新闻,http://36.249.151.144:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-福建电视剧,http://36.249.151.144:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-福建文体,http://36.249.151.144:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-福建少儿,http://36.249.151.144:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-福建经济,http://36.249.151.144:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-福建公共,http://36.249.151.144:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://36.249.151.173:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://36.249.151.173:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+福建文体,http://36.249.151.173:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://36.249.151.173:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://36.249.151.173:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://36.249.151.173:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 福建综合,http://angtv.cc/test/bestv.php?id=fjzhhd4m/4000000
 福建新闻,http://angtv.cc/test/bestv.php?id=fjxwhd4m/4000000

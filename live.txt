@@ -617,10 +617,6 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 通州融媒,http://webmail.axxe.top:4022/udp/239.3.1.221:8001
 
 🇨🇳 浙江地方台,#genre#
-浙江新闻HD,http://115.218.156.74:9999/rtp/233.50.201.137:5140
-浙江少儿HD,http://115.218.156.74:9999/rtp/233.50.201.138:5140
-
-
 
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -645,8 +641,8 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 宁波TV3,http://115.218.156.74:9999/rtp/233.50.201.179:5140
 宁波TV4,http://115.218.156.74:9999/rtp/233.50.201.180:5140
 宁波TV5,http://115.218.156.74:9999/rtp/233.50.201.181:5140
-温州新闻HD,http://115.218.156.74:9999/rtp/233.50.201.87:5140
-绍兴新闻HD,http://115.218.156.74:9999/rtp/233.50.201.156:5140
+温州新闻,http://115.218.156.74:9999/rtp/233.50.201.87:5140
+绍兴新闻,http://115.218.156.74:9999/rtp/233.50.201.156:5140
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -933,6 +929,29 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 福建经济,http://36.249.151.173:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 福建公共,http://36.249.151.173:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
+福建综合,http://117.30.222.241:4000/udp/239.61.5.167:1025
+福建新闻,http://117.30.222.241:4000/udp/239.61.4.4:1025
+福建电视剧,http://117.30.222.241:4000/udp/239.61.4.5:1025
+福建公共,http://117.30.222.241:4000/udp/239.61.4.3:1025
+福建经济,http://117.30.222.241:4000/udp/239.61.4.7:1025
+福建旅游,http://117.30.222.241:4000/udp/239.61.4.6:1025
+福建少儿,http://117.30.222.241:4000/udp/239.61.4.9:1025
+福建文体,http://117.30.222.241:4000/udp/239.61.5.44:1025
+福建教育,http://117.30.222.241:4000/udp/239.61.5.60:1025
+福州－1,http://117.30.222.241:4000/udp/239.61.5.97:1025
+厦门1,http://117.30.222.241:4000/udp/239.61.5.99:1025
+厦门2,http://117.30.222.241:4000/udp/239.61.4.140:1025
+泉州,rtmp://live.qztv.cn/live/news
+泉州4,rtmp://live.qztv.cn/live/mny
+海峡卫视,http://117.30.222.241:4000/udp/239.61.5.45:1025
+宁德新闻,http://117.30.222.241:4000/udp/239.61.5.96:1025
+南平新闻,http://117.30.222.241:4000/udp/239.61.5.92:1025
+三沙卫视,http://117.30.222.241:4000/udp/239.61.5.191:1025
+平潭1套,http://117.30.222.241:4000/udp/239.61.5.117:1025
+石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
+霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
+
+
 福建综合,http://angtv.cc/test/bestv.php?id=fjzhhd4m/4000000
 福建新闻,http://angtv.cc/test/bestv.php?id=fjxwhd4m/4000000
 福建电视剧,http://angtv.cc/test/bestv.php?id=fjdsjhd4m/4000000
@@ -943,24 +962,7 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 福建公共,http://angtv.cc/test/bestv.php?id=fjgghd4m/4000000
 福建教育,http://angtv.cc/test/bestv.php?id=fjjypdhd4m/4000000
 
-福建综合,http://e2.woc.iiiya.cn:8888/udp/239.61.5.167:1025
-福建新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.4.4:1025
-福建电视剧,http://e2.woc.iiiya.cn:8888/udp/239.61.4.5:1025
-福建公共,http://e2.woc.iiiya.cn:8888/udp/239.61.4.3:1025
-福建经济,http://e2.woc.iiiya.cn:8888/udp/239.61.4.7:1025
-福建旅游,http://e2.woc.iiiya.cn:8888/udp/239.61.4.6:1025
-福建少儿,http://e2.woc.iiiya.cn:8888/udp/239.61.4.9:1025
-福建文体,http://e2.woc.iiiya.cn:8888/udp/239.61.5.44:1025
-福建教育,http://e2.woc.iiiya.cn:8888/udp/239.61.5.60:1025
-厦门1,http://e2.woc.iiiya.cn:8888/udp/239.61.5.99:1025
-厦门2,http://e2.woc.iiiya.cn:8888/udp/239.61.4.140:1025
-泉州,rtmp://live.qztv.cn/live/news
-泉州4,rtmp://live.qztv.cn/live/mny
-宁德新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.96:1025
-南平新闻,http://e2.woc.iiiya.cn:8888/udp/239.61.5.92:1025
-三沙卫视,http://e2.woc.iiiya.cn:8888/udp/239.61.5.191:1025
-石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
-霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
+
 
 福建综合,http://49.235.110.121:9090/daili/bestv.php?id=fjzh
 福建新闻,http://49.235.110.121:9090/daili/bestv.php?id=fjxw
@@ -1910,32 +1912,24 @@ YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 
 🌈 彩虹频道_6058,#genre#
-Hustler ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/244/index.m3u8
-Redlight ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/242/index.m3u8
-Dorcel TV ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/245/index.m3u8
-Vivid Red ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/2162/index.m3u8
-Exxxotica ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/2397/index.m3u8
-Eroxxx ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/5015/index.m3u8
-Penthouse Gold ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/5011/index.m3u8
-Penthouse PASS ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/5010/index.m3u8
-Penthouse Quickies ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/5013/index.m3u8
-Analized ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6168/index.m3u8
-Babes ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6171/index.m3u8
-Babes TV ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6172/index.m3u8
-Bang Bros ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6173/index.m3u8
-Blacked ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6178/index.m3u8
-Brazzers ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6182/index.m3u8
-Tushy ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6261/index.m3u8
-ox-ax ᴴᴰ,http://vl05t7es.rostelekom.xyz/iptv/XP2DFA2ML2YEFG/6239/index.m3u8
-Private ᴴᴰ,http://vl05t7es.rostelekom.xyz/iptv/XP2DFA2ML2YEFG/6245/index.m3u8
-Reality Kings ᴴᴰ,http://vl05t7es.rostelekom.xyz/iptv/XP2DFA2ML2YEFG/6247/index.m3u8
-HOT XXL ᴴᴰ,http://vl05t7es.rostelekom.xyz/iptv/XP2DFA2ML2YEFG/6276/index.m3u8
-Hot Pleasure ᴴᴰ,http://vl05t7es.rostelekom.xyz/iptv/XP2DFA2ML2YEFG/6277/index.m3u8
-XY Max ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6286/index.m3u8
-XY Mix ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6287/index.m3u8
-XY Plus ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6265/index.m3u8
-SuperOne ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6298/index.m3u8
-Evolved Fights ᴴᴰ,http://87c576b1.cbilant.com/iptv/EDK4ZVBNNRYT9Z/6200/index.m3u8
+菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
+EROXXX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B9:87&stream=773973&extension=ts&play_token=VFnUEDgvPl
+HUSTLER  ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774035&extension=ts&play_token=VFnUEDgvPl
+ШAΛYH ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D1:47&stream=773974&extension=ts&play_token=VFnUEDgvPl
+XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+N1ADULT ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D3:03&stream=773978&extension=ts&play_token=VFnUEDgvPl
+DORCELTV ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:D9:81&stream=773985&extension=ts&play_token=VFnUEDgvPl
+babestv ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:83&stream=773997&extension=ts&play_token=VFnUEDgvPl
+babes ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E4:79&stream=774020&extension=ts&play_token=VFnUEDgvPl
+SL HOT-1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128764&extension=ts&play_token=VFnUEDgvPl
+SL HOT-2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=267612&extension=ts&play_token=VFnUEDgvPl
+SL HOT-3,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=128770&extension=ts&play_token=VFnUEDgvPl
+SL HOT-4,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138510&extension=ts&play_token=VFnUEDgvPl
+SL HOT-5,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138526&extension=ts&play_token=VFnUEDgvPl
+SL HOT-6,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=138504&extension=ts&play_token=VFnUEDgvPl
+SL HOT-7,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309877&extension=ts&play_token=VFnUEDgvPl
+SL HOT-8,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309870&extension=ts&play_token=VFnUEDgvPl
+SL HOT-9,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=309869&extension=ts&play_token=VFnUEDgvPl
 
 
 

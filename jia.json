@@ -148,17 +148,7 @@
       "filterable": 0,
       "ext": "公众号:影视资源站"
     },
-     {
-        "key": "39kan",
-        "name": "39影视",
-        "api": "https://www.39kan.com/api.php/provide/vod/",
-        "playUrl": "",
-        "search": 1,
-        "group": "切片",
-        "status": false,
-        "type": 1,
-        "id": 1
-      },
+    
         {
             "key": "闪电",
             "name": "闪电┃App",

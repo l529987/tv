@@ -149,17 +149,15 @@
       "ext": "公众号:影视资源站"
     },
      {
-        "key": "sdzyapi",
-        "name": "闪电资源网",
-        "api": "https://sdzyapi.com/api.php/provide/vod/",
+        "key": "39kan",
+        "name": "39影视",
+        "api": "https://www.39kan.com/api.php/provide/vod/",
         "playUrl": "",
         "search": 1,
         "group": "切片",
-        "status": true,
+        "status": false,
         "type": 1,
-        "id": 7,
-        "isActive": true,
-        "resource": 62711
+        "id": 1
       },
         {
             "key": "闪电",

@@ -964,6 +964,17 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 南京生活,http://api2.52tb.xyz/info?id=468&token=20230405tndmhg
 南京十八,http://api2.52tb.xyz/info?id=470&token=20230405tndmhg
 南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
+泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+东海新闻,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
+金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+盐都综合,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
+江宁新闻,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
+东台综合,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+
+
 
 🇨🇳 福建地方台,#genre#
 福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -974,25 +985,26 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 福建经济,http://36.249.151.173:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 福建公共,http://36.249.151.173:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
-福建综合,http://117.30.222.241:4000/udp/239.61.5.167:1025
-福建新闻,http://117.30.222.241:4000/udp/239.61.4.4:1025
-福建电视剧,http://117.30.222.241:4000/udp/239.61.4.5:1025
-福建公共,http://117.30.222.241:4000/udp/239.61.4.3:1025
-福建经济,http://117.30.222.241:4000/udp/239.61.4.7:1025
-福建旅游,http://117.30.222.241:4000/udp/239.61.4.6:1025
-福建少儿,http://117.30.222.241:4000/udp/239.61.4.9:1025
-福建文体,http://117.30.222.241:4000/udp/239.61.5.44:1025
-福建教育,http://117.30.222.241:4000/udp/239.61.5.60:1025
-福州－1,http://117.30.222.241:4000/udp/239.61.5.97:1025
-厦门1,http://117.30.222.241:4000/udp/239.61.5.99:1025
-厦门2,http://117.30.222.241:4000/udp/239.61.4.140:1025
+福建综合,http://117.30.222.173:4000/udp/239.61.5.167:1025
+福建新闻,http://117.30.222.173:4000/udp/239.61.4.4:1025
+福建电视剧,http://117.30.222.173:4000/udp/239.61.4.5:1025
+福建公共,http://117.30.222.173:4000/udp/239.61.4.3:1025
+福建经济,http://117.30.222.173:4000/udp/239.61.4.7:1025
+福建旅游,http://117.30.222.173:4000/udp/239.61.4.6:1025
+福建少儿,http://117.30.222.173:4000/udp/239.61.4.9:1025
+福建文体,http://117.30.222.173:4000/udp/239.61.5.44:1025
+福建教育,http://117.30.222.173:4000/udp/239.61.5.60:1025
+福州－1,http://117.30.222.173:4000/udp/239.61.5.97:1025
+厦门1,http://117.30.222.173:4000/udp/239.61.5.99:1025
+厦门2,http://117.30.222.173:4000/udp/239.61.4.140:1025
 泉州,rtmp://live.qztv.cn/live/news
 泉州4,rtmp://live.qztv.cn/live/mny
-海峡卫视,http://117.30.222.241:4000/udp/239.61.5.45:1025
-宁德新闻,http://117.30.222.241:4000/udp/239.61.5.96:1025
-南平新闻,http://117.30.222.241:4000/udp/239.61.5.92:1025
-三沙卫视,http://117.30.222.241:4000/udp/239.61.5.191:1025
-平潭1套,http://117.30.222.241:4000/udp/239.61.5.117:1025
+海峡卫视,http://117.30.222.173:4000/udp/239.61.5.45:1025
+宁德新闻,http://117.30.222.173:4000/udp/239.61.5.96:1025
+南平新闻,http://117.30.222.173:4000/udp/239.61.5.92:1025
+三沙卫视,http://117.30.222.173:4000/udp/239.61.5.191:1025
+平潭1套,http://117.30.222.173:4000/udp/239.61.5.117:1025
+
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
 
@@ -1096,6 +1108,11 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 安徽影视,http://api2.52tb.xyz/info?id=584&token=20230405tndmhg
 安徽综艺体育,http://api2.52tb.xyz/info?id=585&token=20230405tndmhg
 安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
+
+利辛新闻,https://live.fst1994.net/hls/lixinxw/index.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
+淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 
 🇨🇳 湖南地方台,#genre#
 湖南卫视,http://124.230.56.124:55555/udp/239.76.245.115:1234
@@ -1542,6 +1559,9 @@ IPTV,http://60.25.112.61:8888/rtp/225.1.2.53:5002
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 筠连综合,http://118.122.78.172:89/live1/live1.m3u8?zsicd
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
+大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
+
 
 
 🇨🇳 广西地方台,#genre#

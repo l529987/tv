@@ -550,15 +550,24 @@ BRTV国际频道,http://117.133.95.90:8887/udp/228.1.1.111:8000
 浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-HTV-1综合,http://122.226.48.198:9901/tsfile/live/1001_1.m3u8
-HTV-4影视,http://122.226.48.198:9901/tsfile/live/1002_1.m3u8
-HTV-2明珠,http://122.226.48.198:9901/tsfile/live/1003_1.m3u8
-HTV-3生活,http://122.226.48.198:9901/tsfile/live/1004_1.m3u8
-HTV-5青少.体育,http://122.226.48.198:9901/tsfile/live/1008_1.m3u8
-HTV-2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
-HTV-3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
-HTV-4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
-HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+杭州导视,http://115.218.157.76:9999/rtp/233.50.201.182:5140
+杭州1综合,http://115.218.157.76:9999/rtp/233.50.201.173:5140
+杭州2明珠,http://115.218.157.76:9999/rtp/233.50.201.174:5140
+杭州3生活,http://115.218.157.76:9999/rtp/233.50.201.175:5140
+杭州4影视,http://115.218.157.76:9999/rtp/233.50.201.176:5140
+杭州5青少,http://115.218.157.76:9999/rtp/233.50.201.177:5140
+杭州2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+杭州3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+杭州4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+杭州5青少,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+宁波TV1,http://115.218.157.76:9999/rtp/233.50.201.168:5140
+宁波TV2,http://115.218.157.76:9999/rtp/233.50.201.178:5140
+宁波TV3,http://115.218.157.76:9999/rtp/233.50.201.179:5140
+宁波TV4,http://115.218.157.76:9999/rtp/233.50.201.180:5140
+宁波TV5,http://115.218.157.76:9999/rtp/233.50.201.181:5140
+温州新闻,http://115.218.157.76:9999/rtp/233.50.201.87:5140
+绍兴新闻,http://115.218.157.76:9999/rtp/233.50.201.156:5140
+
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -640,6 +649,78 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 
 
 🇨🇳 广东地方台,#genre#
+广东卫视,http://sxd.nyxg.vip:40000/udp/239.77.0.166:5146
+广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
+广东新闻,http://sxd.nyxg.vip:40000/udp/239.77.0.173:5146
+广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
+广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.112:5146
+广东经济科教,http://sxd.nyxg.vip:40000/udp/239.77.0.85:5146
+广东影视,http://sxd.nyxg.vip:40000/udp/239.77.0.217:5146
+广东少儿,http://sxd.nyxg.vip:40000/udp/239.77.0.250:5146
+嘉佳卡通,http://sxd.nyxg.vip:40000/udp/239.77.0.179:5146
+广州综合,http://sxd.nyxg.vip:40000/udp/239.253.43.71:5146
+广州新闻,http://sxd.nyxg.vip:40000/udp/239.253.43.72:5146
+广州影视,http://sxd.nyxg.vip:40000/udp/239.253.43.73:5146
+广州法治,http://sxd.nyxg.vip:40000/udp/239.253.43.74:5146
+广州竞赛,http://sxd.nyxg.vip:40000/udp/239.253.43.75:5146
+深圳卫视,http://sxd.nyxg.vip:40000/udp/239.77.0.130:5146
+深圳都市,http://sxd.nyxg.vip:40000/udp/239.77.1.176:5146
+深圳电视剧,http://sxd.nyxg.vip:40000/udp/239.77.1.125:5146
+深圳财经生活,http://sxd.nyxg.vip:40000/udp/239.77.1.242:5146
+深圳娱乐,http://sxd.nyxg.vip:40000/udp/239.77.1.243:5146
+深圳体育健康,http://sxd.nyxg.vip:40000/udp/239.77.1.128:5146
+深圳少儿,http://sxd.nyxg.vip:40000/udp/239.77.1.244:5146
+深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.178:5146
+深圳宝安,http://sxd.nyxg.vip:40000/udp/239.77.1.67:5146
+深圳龙岗,http://sxd.nyxg.vip:40000/udp/239.77.1.223:5146
+深圳东部,http://sxd.nyxg.vip:40000/udp/239.77.1.224:5146
+深圳众创TV,http://sxd.nyxg.vip:40000/udp/239.77.1.247:5146
+韶关新闻综合,http://sxd.nyxg.vip:40000/udp/239.77.0.117:5146
+韶关绿色生活,http://sxd.nyxg.vip:40000/udp/239.77.0.119:5146
+湛江新闻综合,http://sxd.nyxg.vip:40000/udp/239.77.0.141:5146
+湛江公共,http://sxd.nyxg.vip:40000/udp/239.77.0.140:5146
+揭阳综合,http://sxd.nyxg.vip:40000/udp/239.77.0.229:5146
+揭阳生活,http://sxd.nyxg.vip:40000/udp/239.77.0.251:5146
+汕尾新闻综合,http://sxd.nyxg.vip:40000/udp/239.77.0.25:5146
+汕尾文化生活,http://sxd.nyxg.vip:40000/udp/239.77.0.187:5146
+江门综合,http://sxd.nyxg.vip:40000/udp/239.77.0.201:5146
+江门侨乡生活,http://sxd.nyxg.vip:40000/udp/239.77.0.202:5146
+江门教育,http://sxd.nyxg.vip:40000/udp/239.77.0.203:5146
+惠州-1,http://sxd.nyxg.vip:40000/udp/239.77.1.232:5146
+惠州-2,http://sxd.nyxg.vip:40000/udp/239.77.1.233:5146
+珠海-1,http://sxd.nyxg.vip:40000/udp/239.77.0.155:5146
+珠海-2,http://sxd.nyxg.vip:40000/udp/239.77.0.154:5146
+肇庆综合,http://sxd.nyxg.vip:40000/udp/239.253.43.1:5146
+肇庆生活服务,http://sxd.nyxg.vip:40000/udp/239.253.43.2:5146
+河源综合,http://sxd.nyxg.vip:40000/udp/239.253.43.213:5146
+河源公共,http://sxd.nyxg.vip:40000/udp/239.253.43.214:5146
+清远新闻综合,http://sxd.nyxg.vip:40000/udp/239.253.43.33:5146
+清远公共,http://sxd.nyxg.vip:40000/udp/239.253.43.34:5146
+云浮综合,http://sxd.nyxg.vip:40000/udp/239.77.0.253:5146
+云浮文旅,http://sxd.nyxg.vip:40000/udp/239.77.0.254:5146
+茂名综合,http://sxd.nyxg.vip:40000/udp/239.77.0.206:5146
+茂名公共,http://sxd.nyxg.vip:40000/udp/239.77.0.207:5146
+汕头综合,http://sxd.nyxg.vip:40000/udp/239.77.1.130:5146
+汕头综合,http://sxd.nyxg.vip:40000/udp/239.253.43.45:5146
+汕头经济生活,http://sxd.nyxg.vip:40000/udp/239.77.1.131:5146
+汕头文旅体育,http://sxd.nyxg.vip:40000/udp/239.253.43.47:5146
+汕尾新闻综合,http://sxd.nyxg.vip:40000/udp/239.77.0.25:5146
+汕尾文化生活,http://sxd.nyxg.vip:40000/udp/239.77.0.187:5146
+佛山公共,http://sxd.nyxg.vip:40000/udp/239.253.43.53:5146
+佛山南海,http://sxd.nyxg.vip:40000/udp/239.253.43.54:5146
+佛山顺德,http://sxd.nyxg.vip:40000/udp/239.253.43.55:5146
+佛山影视,http://sxd.nyxg.vip:40000/udp/239.253.43.56:5146
+佛山综合,http://sxd.nyxg.vip:40000/udp/239.253.43.57:5146
+东莞新闻综合,http://sxd.nyxg.vip:40000/udp/239.253.43.104:5146
+东莞生活资讯,http://sxd.nyxg.vip:40000/udp/239.253.43.105:5146
+中山综合,http://sxd.nyxg.vip:40000/udp/239.253.43.62:5146
+中山公共,http://sxd.nyxg.vip:40000/udp/239.253.43.63:5146
+中山教育,http://sxd.nyxg.vip:40000/udp/239.253.43.64:5146
+HZTV-1,http://sxd.nyxg.vip:40000/udp/239.77.1.232:5146
+HZTV-2,http://sxd.nyxg.vip:40000/udp/239.77.1.233:5146
+香山文化,http://sxd.nyxg.vip:40000/udp/239.253.43.63:5146
+徐闻综合,http://sxd.nyxg.vip:40000/udp/239.253.43.112:5146
+
 广东卫视,http://113.100.73.139:8899/udp/239.77.0.166:5146
 广东珠江,http://113.100.73.139:8899/udp/239.77.0.1:5146
 广东新闻,http://113.100.73.139:8899/udp/239.77.0.173:5146
@@ -713,13 +794,140 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 徐闻综合,http://113.100.73.139:8899/udp/239.253.43.112:5146
 
 
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-阳江综,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8$源2
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8$源2
+
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
+广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+茂名综合,http://180.142.220.79:8181/tsfile/live/1070_1.m3u8
+茂名生活,http://180.142.220.79:8181/tsfile/live/1071_1.m3u8
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
+开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
+开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
+肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
+肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
+阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
+阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
+河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
+河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
+怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
+潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
+
+🇨🇳 江苏地方台,#genre#
+江苏城市,http://121.233.254.77:8808/rtp/239.49.9.35:6000
+江苏综艺,http://121.233.254.77:8808/rtp/239.49.9.36:6000
+江苏体育休闲,http://121.233.254.77:8808/rtp/239.49.9.37:6000
+江苏影视,http://121.233.254.77:8808/rtp/239.49.9.38:6000
+江苏优漫卡通,http://121.233.254.77:8808/rtp/239.49.9.39:6000
+江苏新闻,http://121.233.254.77:8808/rtp/239.49.9.40:6000
+江苏教育,http://121.233.254.77:8808/rtp/239.49.9.42:6000
+盱眙新闻,http://121.233.254.77:8808/rtp/239.49.9.18:6000
+沛县新闻,http://121.233.254.77:8808/rtp/239.49.9.19:6000
+
+江苏影视,http://api2.52tb.xyz/info?id=453&token=20230405tndmhg
+江苏综艺,http://api2.52tb.xyz/info?id=452&token=20230405tndmhg
+江苏新闻,http://api2.52tb.xyz/info?id=454&token=20230405tndmhg
+江苏城市,http://api2.52tb.xyz/info?id=451&token=20230405tndmhg
+江苏体育休闲,http://api2.52tb.xyz/info?id=455&token=20230405tndmhg
+江苏国际,http://api2.52tb.xyz/info?id=457&token=20230405tndmhg
+江苏优漫卡通,http://api2.52tb.xyz/info?id=460&token=20230405tndmhg
+江苏教育,http://api2.52tb.xyz/info?id=459&token=20230405tndmhg
+南京新闻,http://api2.52tb.xyz/info?id=466&token=20230405tndmhg
+南京教科,http://api2.52tb.xyz/info?id=467&token=20230405tndmhg
+南京娱乐,http://api2.52tb.xyz/info?id=469&token=20230405tndmhg
+南京生活,http://api2.52tb.xyz/info?id=468&token=20230405tndmhg
+南京十八,http://api2.52tb.xyz/info?id=470&token=20230405tndmhg
+南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
+泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+东海新闻,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
+金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+盐都综合,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
+江宁新闻,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
+东台综合,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+
+
+
+🇨🇳 福建地方台,#genre#
+福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://36.249.151.173:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://36.249.151.173:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+福建文体,http://36.249.151.173:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://36.249.151.173:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://36.249.151.173:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://36.249.151.173:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
+福建综合,http://117.30.222.173:4000/udp/239.61.5.167:1025
+福建新闻,http://117.30.222.173:4000/udp/239.61.4.4:1025
+福建电视剧,http://117.30.222.173:4000/udp/239.61.4.5:1025
+福建公共,http://117.30.222.173:4000/udp/239.61.4.3:1025
+福建经济,http://117.30.222.173:4000/udp/239.61.4.7:1025
+福建旅游,http://117.30.222.173:4000/udp/239.61.4.6:1025
+福建少儿,http://117.30.222.173:4000/udp/239.61.4.9:1025
+福建文体,http://117.30.222.173:4000/udp/239.61.5.44:1025
+福建教育,http://117.30.222.173:4000/udp/239.61.5.60:1025
+福州－1,http://117.30.222.173:4000/udp/239.61.5.97:1025
+厦门1,http://117.30.222.173:4000/udp/239.61.5.99:1025
+厦门2,http://117.30.222.173:4000/udp/239.61.4.140:1025
+泉州,rtmp://live.qztv.cn/live/news
+泉州4,rtmp://live.qztv.cn/live/mny
+海峡卫视,http://117.30.222.173:4000/udp/239.61.5.45:1025
+宁德新闻,http://117.30.222.173:4000/udp/239.61.5.96:1025
+南平新闻,http://117.30.222.173:4000/udp/239.61.5.92:1025
+三沙卫视,http://117.30.222.173:4000/udp/239.61.5.191:1025
+平潭1套,http://117.30.222.173:4000/udp/239.61.5.117:1025
+
+石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
+霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
+
+
+福建综合,http://angtv.cc/test/bestv.php?id=fjzhhd4m/4000000
+福建新闻,http://angtv.cc/test/bestv.php?id=fjxwhd4m/4000000
+福建电视剧,http://angtv.cc/test/bestv.php?id=fjdsjhd4m/4000000
+福建文体,http://angtv.cc/test/bestv.php?id=fjtyhd4m/4000000
+福建少儿,http://angtv.cc/test/bestv.php?id=fjsehd4m/4000000
+福建旅游,http://angtv.cc/test/bestv.php?id=fjlyhd4m/4000000
+福建经济,http://angtv.cc/test/bestv.php?id=fjjjshhd4m/4000000
+福建公共,http://angtv.cc/test/bestv.php?id=fjgghd4m/4000000
+福建教育,http://angtv.cc/test/bestv.php?id=fjjypdhd4m/4000000
+
+
+
+福建综合,http://49.235.110.121:9090/daili/bestv.php?id=fjzh
+福建新闻,http://49.235.110.121:9090/daili/bestv.php?id=fjxw
+福建电视剧,http://49.235.110.121:9090/daili/bestv.php?id=fjdsj
+福建经济,http://49.235.110.121:9090/daili/bestv.php?id=fjjj
+福建文体,http://49.235.110.121:9090/daili/bestv.php?id=fjwt
+福建少儿,http://49.235.110.121:9090/daili/bestv.php?id=fjse
+福建旅游,http://49.235.110.121:9090/daili/bestv.php?id=fjly
+福建公共,http://49.235.110.121:9090/daili/bestv.php?id=fjgg
+福建教育,http://49.235.110.121:9090/daili/bestv.php?id=fjjy
+海峡卫视,http://49.235.110.121:9090/daili/bestv.php?id=hxws
 
 🇨🇳 湖南地方台,#genre#
 湖南卫视,http://124.230.56.124:55555/udp/239.76.245.115:1234
@@ -2213,168 +2421,169 @@ IPTV高清院线,http://124.230.56.139:55555/udp/239.76.252.217:9000
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 
 🌈 彩虹频道_6058,#genre#
-Playboy,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/527/index.m3u8
-Bazzers TV Europe,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/910/index.m3u8
-Blue Hustler,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/1064/index.m3u8
-Barely legal,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/871/index.m3u8
-Dorcel TV FHD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/878/index.m3u8
-Redlight HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/242/index.m3u8
-Private TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/243/index.m3u8
-Hustler HD Europe,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/244/index.m3u8
-Dorcel TV HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/245/index.m3u8
-Pink\'o TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/874/index.m3u8
-FrenchLover,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2160/index.m3u8
-O-la-la,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2161/index.m3u8
-Vivid Red HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2162/index.m3u8
-Exxxotica HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2397/index.m3u8
-XXL,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5009/index.m3u8
-Penthouse Passion,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5010/index.m3u8
-Penthouse Gold HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5011/index.m3u8
-Penthouse Quickies 1300k,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5012/index.m3u8
-Penthouse Quickies HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5013/index.m3u8
-Extasy 4K,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5014/index.m3u8
-Eroxxx HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5015/index.m3u8
-A3 Bikini,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6165/index.m3u8
-Adult Time,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6166/index.m3u8
-Anal Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6167/index.m3u8
-Analized HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6168/index.m3u8
-AST TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6169/index.m3u8
-AST TV 2,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6170/index.m3u8
-Babes HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6171/index.m3u8
-Babes TV HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6172/index.m3u8
-Bang Bros HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6173/index.m3u8
-Bang!,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6174/index.m3u8
-Big Ass Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6175/index.m3u8
-Big Dick Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6176/index.m3u8
-Big Tits Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6177/index.m3u8
-Blacked HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6178/index.m3u8
-Blonde Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6179/index.m3u8
-Blowjob Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6180/index.m3u8
-Brazzers eXXtra,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6181/index.m3u8
-Brazzers HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6182/index.m3u8
+Playboy,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/527/index.m3u8
+Bazzers TV Europe,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/910/index.m3u8
+Blue Hustler,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/1064/index.m3u8
+Barely legal,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/871/index.m3u8
+Dorcel TV FHD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/878/index.m3u8
+Redlight HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/242/index.m3u8
+Private TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/243/index.m3u8
+Hustler HD Europe,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/244/index.m3u8
+Dorcel TV HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/245/index.m3u8
+Pink\'o TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/874/index.m3u8
+FrenchLover,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2160/index.m3u8
+O-la-la,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2161/index.m3u8
+Vivid Red HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2162/index.m3u8
+Exxxotica HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2397/index.m3u8
+XXL,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5009/index.m3u8
+Penthouse Passion,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5010/index.m3u8
+Penthouse Gold HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5011/index.m3u8
+Penthouse Quickies 1300k,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5012/index.m3u8
+Penthouse Quickies HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5013/index.m3u8
+Extasy 4K,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5014/index.m3u8
+Eroxxx HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5015/index.m3u8
+A3 Bikini,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6165/index.m3u8
+Adult Time,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6166/index.m3u8
+Anal Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6167/index.m3u8
+Analized HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6168/index.m3u8
+AST TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6169/index.m3u8
+AST TV 2,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6170/index.m3u8
+Babes HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6171/index.m3u8
+Babes TV HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6172/index.m3u8
+Bang Bros HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6173/index.m3u8
+Bang!,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6174/index.m3u8
+Big Ass Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6175/index.m3u8
+Big Dick Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6176/index.m3u8
+Big Tits Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6177/index.m3u8
+Blacked HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6178/index.m3u8
+Blonde Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6179/index.m3u8
+Blowjob Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6180/index.m3u8
+Brazzers eXXtra,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6181/index.m3u8
+Brazzers HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6182/index.m3u8
 
-Playboy,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/527/index.m3u8
-Bazzers TV Europe,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/910/index.m3u8
-Blue Hustler,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/1064/index.m3u8
-Barely legal,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/871/index.m3u8
-Dorcel TV FHD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/878/index.m3u8
-Redlight HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/242/index.m3u8
-Private TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/243/index.m3u8
-Hustler HD Europe,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/244/index.m3u8
-Dorcel TV HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/245/index.m3u8
-Pink\'o TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/874/index.m3u8
-FrenchLover,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2160/index.m3u8
-O-la-la,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2161/index.m3u8
-Vivid Red HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2162/index.m3u8
-Exxxotica HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/2397/index.m3u8
-XXL,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5009/index.m3u8
-Penthouse Passion,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5010/index.m3u8
-Penthouse Gold HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5011/index.m3u8
-Penthouse Quickies 1300k,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5012/index.m3u8
-Penthouse Quickies HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5013/index.m3u8
-Extasy 4K,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5014/index.m3u8
-Eroxxx HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/5015/index.m3u8
-A3 Bikini,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6165/index.m3u8
-Adult Time,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6166/index.m3u8
-Anal Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6167/index.m3u8
-Analized HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6168/index.m3u8
-AST TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6169/index.m3u8
-AST TV 2,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6170/index.m3u8
-Babes HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6171/index.m3u8
-Babes TV HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6172/index.m3u8
-Bang Bros HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6173/index.m3u8
-Bang!,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6174/index.m3u8
-Big Ass Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6175/index.m3u8
-Big Dick Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6176/index.m3u8
-Big Tits Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6177/index.m3u8
-Blacked HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6178/index.m3u8
-Blonde Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6179/index.m3u8
-Blowjob Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6180/index.m3u8
-Brazzers eXXtra,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6181/index.m3u8
-Brazzers HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6182/index.m3u8
+Playboy,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/527/index.m3u8
+Bazzers TV Europe,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/910/index.m3u8
+Blue Hustler,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/1064/index.m3u8
+Barely legal,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/871/index.m3u8
+Dorcel TV FHD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/878/index.m3u8
+Redlight HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/242/index.m3u8
+Private TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/243/index.m3u8
+Hustler HD Europe,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/244/index.m3u8
+Dorcel TV HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/245/index.m3u8
+Pink\'o TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/874/index.m3u8
+FrenchLover,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2160/index.m3u8
+O-la-la,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2161/index.m3u8
+Vivid Red HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2162/index.m3u8
+Exxxotica HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2397/index.m3u8
+XXL,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5009/index.m3u8
+Penthouse Passion,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5010/index.m3u8
+Penthouse Gold HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5011/index.m3u8
+Penthouse Quickies 1300k,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5012/index.m3u8
+Penthouse Quickies HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5013/index.m3u8
+Extasy 4K,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5014/index.m3u8
+Eroxxx HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/5015/index.m3u8
+A3 Bikini,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6165/index.m3u8
+Adult Time,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6166/index.m3u8
+Anal Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6167/index.m3u8
+Analized HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6168/index.m3u8
+AST TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6169/index.m3u8
+AST TV 2,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6170/index.m3u8
+Babes HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6171/index.m3u8
+Babes TV HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6172/index.m3u8
+Bang Bros HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6173/index.m3u8
+Bang!,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6174/index.m3u8
+Big Ass Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6175/index.m3u8
+Big Dick Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6176/index.m3u8
+Big Tits Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6177/index.m3u8
+Blacked HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6178/index.m3u8
+Blonde Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6179/index.m3u8
+Blowjob Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6180/index.m3u8
+Brazzers eXXtra,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6181/index.m3u8
+Brazzers HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6182/index.m3u8
 
 
-Brunette Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6183/index.m3u8
-cento x cento,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6184/index.m3u8
-Cherry Pimps,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6185/index.m3u8
-Club 17,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6186/index.m3u8
-Compilation Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6187/index.m3u8
-Cuckold Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6188/index.m3u8
-Cum Louder,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6189/index.m3u8
-Cum4k,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6190/index.m3u8
-Daughter Swap,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6191/index.m3u8
-Day with a Pornstar,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6192/index.m3u8
-DDF Busty,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6193/index.m3u8
-DDF Network,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6194/index.m3u8
-Digital Desire HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6195/index.m3u8
-Digital Playground HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6196/index.m3u8
-Dorcel Club,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6197/index.m3u8
-Dusk,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6198/index.m3u8
-Evil Angel HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6199/index.m3u8
-Evolved Fights,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6200/index.m3u8
-Extasy HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6201/index.m3u8
-Fake Taxi HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6202/index.m3u8
-Fap TV 2,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6203/index.m3u8
-Fap TV 3,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6204/index.m3u8
-Fap TV 4,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6205/index.m3u8
-Fap TV Anal,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6206/index.m3u8
-Fap TV BBW,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6207/index.m3u8
-Fap TV Compilation,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6208/index.m3u8
-Fap TV Lesbian,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6209/index.m3u8
-Fap TV Parody,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6210/index.m3u8
-Fap TV Teens,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6211/index.m3u8
-FemJoy,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6212/index.m3u8
-Fetish Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6213/index.m3u8
-Gangbang Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6214/index.m3u8
-Gay Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6215/index.m3u8
-Got MYLF,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6216/index.m3u8
-Hands on Hardcore,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6217/index.m3u8
-Hard X,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6218/index.m3u8
-Hardcore Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6219/index.m3u8
-Hitzefrei HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6220/index.m3u8
-Holed,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6221/index.m3u8
-Hot and Mean,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6222/index.m3u8
+Brunette Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6183/index.m3u8
+cento x cento,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6184/index.m3u8
+Cherry Pimps,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6185/index.m3u8
+Club 17,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6186/index.m3u8
+Compilation Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6187/index.m3u8
+Cuckold Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6188/index.m3u8
+Cum Louder,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6189/index.m3u8
+Cum4k,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6190/index.m3u8
+Daughter Swap,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6191/index.m3u8
+Day with a Pornstar,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6192/index.m3u8
+DDF Busty,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6193/index.m3u8
+DDF Network,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6194/index.m3u8
+Digital Desire HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6195/index.m3u8
+Digital Playground HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6196/index.m3u8
+Dorcel Club,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6197/index.m3u8
+Dusk,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6198/index.m3u8
+Evil Angel HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6199/index.m3u8
+Evolved Fights,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6200/index.m3u8
+Extasy HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6201/index.m3u8
+Fake Taxi HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6202/index.m3u8
+Fap TV 2,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6203/index.m3u8
+Fap TV 3,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6204/index.m3u8
+Fap TV 4,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6205/index.m3u8
+Fap TV Anal,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6206/index.m3u8
+Fap TV BBW,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6207/index.m3u8
+Fap TV Compilation,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6208/index.m3u8
+Fap TV Lesbian,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6209/index.m3u8
+Fap TV Parody,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6210/index.m3u8
+Fap TV Teens,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6211/index.m3u8
+FemJoy,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6212/index.m3u8
+Fetish Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6213/index.m3u8
+Gangbang Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6214/index.m3u8
+Gay Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6215/index.m3u8
+Got MYLF,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6216/index.m3u8
+Hands on Hardcore,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6217/index.m3u8
+Hard X,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6218/index.m3u8
+Hardcore Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6219/index.m3u8
+Hitzefrei HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6220/index.m3u8
+Holed,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6221/index.m3u8
+Hot and Mean,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6222/index.m3u8
 
-Brunette Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6183/index.m3u8
-cento x cento,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6184/index.m3u8
-Cherry Pimps,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6185/index.m3u8
-Club 17,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6186/index.m3u8
-Compilation Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6187/index.m3u8
-Cuckold Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6188/index.m3u8
-Cum Louder,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6189/index.m3u8
-Cum4k,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6190/index.m3u8
-Daughter Swap,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6191/index.m3u8
-Day with a Pornstar,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6192/index.m3u8
-DDF Busty,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6193/index.m3u8
-DDF Network,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6194/index.m3u8
-Digital Desire HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6195/index.m3u8
-Digital Playground HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6196/index.m3u8
-Dorcel Club,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6197/index.m3u8
-Dusk,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6198/index.m3u8
-Evil Angel HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6199/index.m3u8
-Evolved Fights,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6200/index.m3u8
-Extasy HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6201/index.m3u8
-Fake Taxi HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6202/index.m3u8
-Fap TV 2,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6203/index.m3u8
-Fap TV 3,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6204/index.m3u8
-Fap TV 4,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6205/index.m3u8
-Fap TV Anal,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6206/index.m3u8
-Fap TV BBW,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6207/index.m3u8
-Fap TV Compilation,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6208/index.m3u8
-Fap TV Lesbian,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6209/index.m3u8
-Fap TV Parody,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6210/index.m3u8
-Fap TV Teens,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6211/index.m3u8
-FemJoy,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6212/index.m3u8
-Fetish Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6213/index.m3u8
-Gangbang Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6214/index.m3u8
-Gay Adult TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6215/index.m3u8
-Got MYLF,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6216/index.m3u8
-Hands on Hardcore,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6217/index.m3u8
-Hard X,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6218/index.m3u8
-Hardcore Red TV,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6219/index.m3u8
-Hitzefrei HD,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6220/index.m3u8
-Holed,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6221/index.m3u8
-Hot and Mean,http://34f4d057.shukinuki.website/iptv/EDK4ZVBNNRYT9Z/6222/index.m3u8
+Brunette Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6183/index.m3u8
+cento x cento,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6184/index.m3u8
+Cherry Pimps,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6185/index.m3u8
+Club 17,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6186/index.m3u8
+Compilation Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6187/index.m3u8
+Cuckold Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6188/index.m3u8
+Cum Louder,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6189/index.m3u8
+Cum4k,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6190/index.m3u8
+Daughter Swap,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6191/index.m3u8
+Day with a Pornstar,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6192/index.m3u8
+DDF Busty,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6193/index.m3u8
+DDF Network,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6194/index.m3u8
+Digital Desire HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6195/index.m3u8
+Digital Playground HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6196/index.m3u8
+Dorcel Club,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6197/index.m3u8
+Dusk,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6198/index.m3u8
+Evil Angel HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6199/index.m3u8
+Evolved Fights,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6200/index.m3u8
+Extasy HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6201/index.m3u8
+Fake Taxi HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6202/index.m3u8
+Fap TV 2,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6203/index.m3u8
+Fap TV 3,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6204/index.m3u8
+Fap TV 4,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6205/index.m3u8
+Fap TV Anal,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6206/index.m3u8
+Fap TV BBW,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6207/index.m3u8
+Fap TV Compilation,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6208/index.m3u8
+Fap TV Lesbian,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6209/index.m3u8
+Fap TV Parody,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6210/index.m3u8
+Fap TV Teens,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6211/index.m3u8
+FemJoy,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6212/index.m3u8
+Fetish Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6213/index.m3u8
+Gangbang Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6214/index.m3u8
+Gay Adult TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6215/index.m3u8
+Got MYLF,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6216/index.m3u8
+Hands on Hardcore,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6217/index.m3u8
+Hard X,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6218/index.m3u8
+Hardcore Red TV,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6219/index.m3u8
+Hitzefrei HD,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6220/index.m3u8
+Holed,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6221/index.m3u8
+Hot and Mean,http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/6222/index.m3u8
+
 
 
 

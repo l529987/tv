@@ -656,14 +656,14 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 
 🇨🇳 浙江地方台,#genre#
 
-浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 杭州导视,http://115.218.158.104:9999/rtp/233.50.201.182:5140
 杭州1综合,http://115.218.158.104:9999/rtp/233.50.201.173:5140
 杭州2明珠,http://115.218.158.104:9999/rtp/233.50.201.174:5140

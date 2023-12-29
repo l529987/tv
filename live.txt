@@ -436,42 +436,6 @@ CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
-🇨🇳 新闻频道,#genre#
-凤凰资讯,http://180.142.220.79:8181/tsfile/live/1082_1.m3u8
-凤凰中文,http://180.142.220.79:8181/tsfile/live/1083_1.m3u8
-无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
-无线财经,https://i.125011.xyz/tvb.php?id=2&hq
-寰宇卫视,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1222
-寰宇卫视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
-中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1015
-中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
-壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
-壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
-年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1192
-年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192
-民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
-民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
-TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
-TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
-非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1013
-非凡商业,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1012
-中天新闻 ,https://zb.ran-ran.net:443/198proxy.php?id=ztxw
-中视新闻,https://zb.ran-ran.net:443/198proxy.php?id=zsxw
-TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
-东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
-东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
-年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
-非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
-东森新闻,http://116.11.140.231:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-东森财经新闻,http://116.11.140.231:8181/tsfile/live/1203_1.m3u8?key=txiptv&playlive=1&authid=0
-中天新闻 ,https://zb.ran-ran.net:443/198proxy.php?id=ztxw
-中视新闻,https://zb.ran-ran.net:443/198proxy.php?id=zsxw
-TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
-东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
-东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
-年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
-非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
-
 🇨🇳 电影频道,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
@@ -506,16 +470,22 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
 
 🇨🇳 港 澳 台,#genre#
+凤凰卫视,http://170.178.177.98:27347/livehttpplay?channel_id=20065
+凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
 无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=30024
 无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=20123
 无线财经体育资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30019
+明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
+明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
+HOY76,http://170.178.177.98:27347/livehttpplay?channel_id=30037
+viu6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026
 翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127
 J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线新闻,https://i.125011.xyz/tvb.php?id=0&hq
-无线财经,https://i.125011.xyz/tvb.php?id=2&hq
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
+无线财经体育资讯,https://i.125011.xyz/tvb.php?id=2&hq
 翡翠台,http://r.jdshipin.com/n90gt
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS$源2
@@ -533,16 +503,16 @@ J2,http://r.jdshipin.com/ndGgS$源2
 卫视中文,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1024
 卫视电影,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1031
 卫视电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1031
-中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1023
-MUCH TV,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1189
+中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1023
+MUCH TV,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1189
 AXN,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1054
-中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
-华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
-民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
-民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
-TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
-非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1013
-非凡商业,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1012
+中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1048
+华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1049
+民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1050
+民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1204
+TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1251
+非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1013
+非凡商业,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1012
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -588,10 +558,6 @@ TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
 HBO HD,https://zb.ran-ran.net:443/198proxy.php?id=hbohd
 ELTA影剧,https://zb.ran-ran.net:443/198proxy.php?id=ardyj
 
-三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686&$未知 1080P
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3&$未知 1080P
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1&$未知 1080P
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 
 🇨🇳 北京地方台,#genre#
 北京卫视,http://117.133.95.90:8887/udp/228.1.1.115:8000
@@ -682,8 +648,9 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 温州新闻,http://183.151.59.11:4022/rtp/233.50.201.87:5140
 绍兴新闻,http://183.151.59.11:4022/rtp/233.50.201.156:5140
 
-
-
+嘉兴新闻综合,http://play-a2.quklive.com/live/1675942165226154.m3u8
+嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
+嘉兴公共频道,http://play-a2.quklive.com/live/1675149601192103.m3u8
 
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
@@ -722,12 +689,10 @@ KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-永康新闻综合,http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed

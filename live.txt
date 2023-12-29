@@ -493,70 +493,40 @@ J2,http://r.jdshipin.com/ndGgS$源2
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
 
 寰宇新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1222
-寰宇新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
+寰宇新闻台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1222
 中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1015
-中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
+中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1015
+东森新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1014
+东森新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1014
+东森财经新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1017
+东森财经新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1017
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1016
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1016
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
-壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
 年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1192
-年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192
+年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1192
 卫视中文,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1024
 卫视电影,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1031
-卫视电影,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1031
-中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1023
+卫视电影,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1031
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1029
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1029
+中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1023
 MUCH TV,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1189
 AXN,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1054
+台视,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1047
+台视,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1047
 中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1048
 华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1049
 民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1050
-民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1204
-TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1251
-非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1013
-非凡商业,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.165:1888&id=live1012
+民视新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1204
+TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1251
+非凡新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1013
+非凡商业,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1012
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
-无线新闻台,https://zb.ran-ran.net:443/198proxy.php?id=wxxw
-TVB星河,https://zb.ran-ran.net:443/198proxy.php?id=tvbxh
-
-公视,https://zb.ran-ran.net:443/198proxy.php?id=gs
-台视,https://zb.ran-ran.net:443/198proxy.php?id=ts
-华视,https://zb.ran-ran.net:443/198proxy.php?id=hs
-民视台湾台,https://zb.ran-ran.net:443/198proxy.php?id=mstw
-中视,https://zb.ran-ran.net:443/198proxy.php?id=zs
-中视新闻,https://zb.ran-ran.net:443/198proxy.php?id=zsxw
-中视经典,https://zb.ran-ran.net:443/198proxy.php?id=zsjd
-中天娱乐,https://zb.ran-ran.net:443/198proxy.php?id=ztyl
-中天综合,https://zb.ran-ran.net:443/198proxy.php?id=ztzh
-三立都会,https://zb.ran-ran.net:443/198proxy.php?id=sldh
-三立戏剧,https://zb.ran-ran.net:443/198proxy.php?id=slxj
-三立都会台,https://zb.ran-ran.net:443/198proxy.php?id=sldh
-三立台湾台,https://zb.ran-ran.net:443/198proxy.php?id=sltw
-中天新闻 ,https://zb.ran-ran.net:443/198proxy.php?id=ztxw
-TVBS新闻台,https://zb.ran-ran.net:443/198proxy.php?id=tvbsxw
-东森新闻,https://zb.ran-ran.net:443/198proxy.php?id=dsxw
-东森财经新闻,https://zb.ran-ran.net:443/198proxy.php?id=dscjxw
-东森超视,https://zb.ran-ran.net:443/198proxy.php?id=dscs
-民视新闻,https://zb.ran-ran.net:443/198proxy.php?id=msxw
-年代新闻,https://zb.ran-ran.net:443/198proxy.php?id=ndxw
-非凡新闻,https://zb.ran-ran.net:443/198proxy.php?id=ffxw
-东森戏剧,https://zb.ran-ran.net:443/198proxy.php?id=dsxj
-星卫电影台,https://zb.ran-ran.net:443/198proxy.php?id=xwdy
-美亚电影,https://zb.ran-ran.net:443/198proxy.php?id=mydy
-东森电影,https://zb.ran-ran.net:443/198proxy.php?id=dsdy
-东森洋片,https://zb.ran-ran.net:443/198proxy.php?id=dsyp
-龙华洋片,https://zb.ran-ran.net:443/198proxy.php?id=lhyp
-龙华戏剧,https://zb.ran-ran.net:443/198proxy.php?id=lhxj
-龙华偶像,https://zb.ran-ran.net:443/198proxy.php?id=lhox
-龙华日韩,https://zb.ran-ran.net:443/198proxy.php?id=lhrh
-龙祥时代,https://zb.ran-ran.net:443/198proxy.php?id=lxsd
-八大综合台,https://zb.ran-ran.net:443/198proxy.php?id=bdzh
-八大戏剧台,https://zb.ran-ran.net:443/198proxy.php?id=bdxj
-八大第1台,https://zb.ran-ran.net:443/198proxy.php?id=bddy
-卫视中文台,https://zb.ran-ran.net:443/198proxy.php?id=wszw
-HBO HD,https://zb.ran-ran.net:443/198proxy.php?id=hbohd
-ELTA影剧,https://zb.ran-ran.net:443/198proxy.php?id=ardyj
 
 
 🇨🇳 北京地方台,#genre#

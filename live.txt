@@ -1001,7 +1001,9 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 连云港综,https://live.lyg1.com/zhpd/sd/live.m3u8
 靖江新闻綜合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-
+张家港新闻,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
 福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0

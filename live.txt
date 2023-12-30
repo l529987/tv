@@ -326,6 +326,24 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+CCTV1,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV2,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV3,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV4,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV5,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV5+,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV6,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV7,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV8,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV9,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV10,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV11,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV12,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV13,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV14,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV15,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV16,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV17,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
 
 
 CCTV1,http://18.167.145.83:9870/go11.php?name=cctv1&t=1
@@ -424,6 +442,36 @@ CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
+中国教育1,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+中国教育2,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=GD_CUCC&$2M SD
+中国教育3,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=GD_CUCC&$2M SD
+中国教育4,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=GD_CUCC&$2M SD
+湖南卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+东方卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+江苏卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+广东卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+浙江卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+北京卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+深圳卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+天津卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+山东卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+安徽卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+江西卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+黑龙江卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8?p=GITV&area=GD_CUCC&$3M FHD
+四川卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+贵州卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+湖北卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+辽宁卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+广西卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+重庆卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+东南卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+吉林卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+海南卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+云南卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+河南卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+河北卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+
 
 🇨🇳 电影频道,#genre#
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?

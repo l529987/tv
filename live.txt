@@ -1016,6 +1016,15 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
+都昌新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+庐山综合,http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+武宁新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_wuning.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+上饶新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_shangrao1.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+上饶经济旅游,http://live02.jxtvcn.com.cn/live/ganyun_shangrao2.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+广丰综合,http://live02.jxtvcn.com.cn/live/ganyun_guangfeng.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+余干综合,http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+井冈山综合,http://live02.jxtvcn.com.cn/live/ganyun_jgs.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+
 🇨🇳 安徽地方台,#genre#
 安徽卫视,http://223.240.229.242:8888/rtp/238.1.79.27:4328
 安徽经济生活,http://223.240.229.242:8888/rtp/238.1.79.44:4464

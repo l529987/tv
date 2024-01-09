@@ -1884,7 +1884,7 @@
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"腾讯","name":"腾讯官源","type":1,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/tengxun.js"},
-{"key":"爱奇艺","name":"爱奇艺官源","type":1,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/iqy.js"},
+{"key":"爱奇艺","name":"爱奇艺官源","type":1,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key":"芒果","name":"芒果┃官源","type":3,"playerType":2,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/mangguo.js"},
 {"key":"诺迅资源","name":"诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

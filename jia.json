@@ -9,6 +9,7 @@
             "key": "",
             "name": "️凰浦资源",
             "type": 1,
+	    "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
             //"playUrl":"https://jx.xmflv.com/?url=",
             "searchable": 1,

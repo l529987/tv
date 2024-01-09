@@ -224,14 +224,16 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
-      "key": "heyik",
-      "name": "何以┃App",
+      "key": "探探",
+      "name": "🏵┃影探┃4K",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://www.heyik.cn/api.php/v1.vod"
+      "ext": "vip.lyyytv.cn",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"
     },
     {
       "key": "量子资源",

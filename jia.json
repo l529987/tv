@@ -130,11 +130,13 @@
             "name": "️奇艺影视",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
+            "playUrl":"json:https://jxdp.codermart.net/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            //"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+             "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
+	    "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         {
             "key": "优酷资源",

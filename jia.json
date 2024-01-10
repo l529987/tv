@@ -203,8 +203,8 @@
       "ext": "https://api.tiankongapi.com/api.php/provide/vod/"
    },	
      {
-      "key": "shaozeyy",
-      "name": "少泽┃App",
+      "key": "金鹰资源",
+      "name": "金鹰┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,

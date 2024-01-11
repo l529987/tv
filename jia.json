@@ -132,16 +132,7 @@
       "filterable": 0,
       "ext": "公众号:影视资源站"
     },
-        {
-            "key": "极光资源",
-            "name": "极光资源",
-            "type": 1,
-            "api": "https://jiguang.la/api.php/provide/vod/"
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            },
-	  {
+      {
       "key": "卧龙资源",
       "name": "卧龙资源┃App",
       "type": 3,

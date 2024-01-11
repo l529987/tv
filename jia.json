@@ -1849,11 +1849,11 @@
 
 {"key":"宝仙┃APP","name":"宝仙┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://webdillo.com/api.php/app/"},
 
-{"key":"少泽影客┃APP","name":"少泽影客┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
+{"key":"少泽影客┃APP","name":"少泽影客┃APP","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
 
-{"key":"无限影视┃APP","name":"无限影视┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
+{"key":"无限影视┃APP","name":"无限影视┃APP","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 
-{"key":"TV酷┃APP","name":"TV酷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"TV酷┃APP","name":"TV酷┃APP","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -1877,6 +1877,9 @@
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"祥祥影视","name":"吉祥资源","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦资源","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"优众影视","name":"优众影视","type":1,"api":"http://121.205.88.194:7878/xgapp.php/v2/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"独优影视","name":"独优影视","type":1,"api":"http://121.205.88.71:218/api.php/Chengcheng/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"刺猬影视","name":"刺猬影视","type":1,"api":"http://www.cccvvv.top/api.php/iptv/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 	  

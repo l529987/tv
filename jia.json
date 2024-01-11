@@ -9,32 +9,34 @@
             "key": "",
             "name": "️凰浦资源",
             "type": 1,
-	    "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
             //"playUrl":"https://jx.xmflv.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
         "categories":[                
-                "国产剧",
-                "韩国剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
+                "电影",                
+                "连续剧",                
+                "综艺",
+                "动漫",                                              
                 "动作片",
-                "科幻片",
-                "战争片",
-                "奇幻片",
                 "喜剧片",
                 "爱情片",
+                "武侠片",
+                "科幻片",
                 "恐怖片",
-                "犯罪片",
-                "悬疑片",
-                "惊悚片",
                 "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "日韩剧",
+                "港台剧",
+                "惊悚片",
+                "犯罪片",
                 "冒险片",
-                "记录片",
-                "综艺",
-                "动漫"             
+                "悬疑片",
+                "奇幻片",
+                "动画片"             
                 ]
                 },
     {
@@ -68,16 +70,30 @@
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","记录片","短片","动画片","泰国剧","惊悚片","家庭片","古装片","悬疑片","犯罪片","篮球","伦理片","足球"]
     },
     {
-      "key": "49zy",
-      "name": "♻┃49Z┃2K",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": ["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","科幻片","恐怖片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]
-    },  
+      "key": "速映",
+      "name": "🏍┃速映┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
+      "ext": {
+        "站名": "速映影视",
+        "主页url": "http://www.suying.life/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#",
+        "分类url": "http://www.suying.life/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "年代": "年份：&&</a>",
+        "地区": "地区：&&</a>",
+        "类型": "类型：&&</a>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "eight: 20px;\">&&</p>",
+        "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+        "播放链接": "href=\"&&\""
+      }
+    },    
     {
     "key":"飞速资源",
     "name":"飞速资源",
@@ -88,15 +104,12 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","动画片","其他片","其他剧","伦理片"]
     },
-	
-{"key":"csp_xBPQ_不卡影视2","name":"🌟不卡影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"嗅探词\":\".m3u8#.mp4\",\"主演\":\"主演：&&</p>\",\"导演\":\"导演：&&</p>\",\"简介\":\"完整版在线免费观看，&&</div>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"#down&&</li>\",\"线路标题\":\">&&</a>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"播放标题\":\">&&</a>\",\"播放链接前缀\":\"http://kan8.tv\",\"分类\":\"电影$1#剧集$2#综艺$3#动漫$4#伦理$40\",\"搜索url\":\"http://kan8.tv/search.php;post;searchword={wd}\",\"分类url\":\"http://kan8.tv/films/{cateId}_{catePg}.html\"}","jar":"https://agit.ai/sunawy29/1/raw/branch/master/xBPQ.jar"},
-{"key":"csp_xpath_tjyy","name":"📺奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/ra
 	    {
             "key": "芒果资源",
             "name": "️芒果影视",
             "type": 1,
-            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+            "playUrl":"https://jx.777jiexi.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -107,13 +120,11 @@
             "name": "️奇艺影视",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"json:https://jxdp.codermart.net/?url=",
+            "playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            //"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
-             "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
-	    "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         {
             "key": "优酷资源",
@@ -137,17 +148,18 @@
       "filterable": 0,
       "ext": "公众号:影视资源站"
     },
-     {
-      "key": "豪华资源",
-      "name": "豪华┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://hhzyapi.com/api.php/provide/vod/"
-    },
+        {
+            "key": "闪电",
+            "name": "闪电┃App",
+            "type": 3,
+            "api": "csp_Appto",
+            "jar":"https://agit.ai/haifeng2777/TVB/raw/branch/master/jar/fix1110%20%28g%29.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "CLtudXE7ZxI/TCPiQMQmMshGSUocT6UcxqWxVG55EmgNtsC77N0yoGmgAB4dRXcuk3wFhrQE2va6VMz+bX7Bzs49hozj8DUds+GasTAft5FjoA7q1iAYlroFk/a9jJi5fXqSkhgg/ABPUW69+xLddSennVB8dptQmxW2aW/qCVRo0ZBt4MFrB/Et8lyUz2q6v5ZYMYf50RIrLw1zlrp2IFRpIbLyOCneZch0SEcSbRZXhl6BI1t8toRlhNE5rJ30MJ53N5JT3uJVSkQcwAiQpqR9zf7F5CXormERc3eScixBj9cV6KKSOsGXN3U+Q+T0MyLyhVZJlJxxegD4DRu08M5FZ9eu6l8s1kDDfZ9/dXECXvT47u9b/k8PB3PhbwJrnFvEIh4liSEpXXOAjbKbMIqQ2aby7YdyQG+KoTmyujKYa+zOVeR4UjjqjHRmODTDjEepspEtFsDzcoTRIyLCUCeCILIvTSJyKyIIHNOMe1G833xzZnAPYLdeu+x8Yb48whqMLmrWQTZhsJKe9O7Mb92u1raxpZLvaaqTjH+xAweKFtEQ9bjj2oUdxZ5R2BJFTzCTHv5RaS7xlqiBAmb6DMDgZfIOmHNymT74lfSN0kP0BGNB5CDpnQhaqW76Sz3G+kVwciqqPnUs8SXOYk/yY2Z2MQ5O11jFYhWLSorVcJxQ9oaYoYHHlDPsI9RrmFq6LS2Cy879ZSVi/IKNEKg0D1AKeOInGTITUas9cUTKooLf/Ji17OM1XLDQwqTAubBa0ExqU0Djjeikb6xkwRxRFf70ROiqZvUugZXNr2bGVX9eYb34moQ/K658mqeNADhxrY/W9NarFeaxET7h1GxQVbs0H2ak0PRH9WeArDda84HhAl3AIybJfNBaai8w943AO4+0wYQVijELtJht5kI4tvRg+MZayjSyE4Fn/K/vDLsAwDB02bg7c1dEo5Q6ERaY3W1zqMt7s4t9tKvwLCIiGicwoBTwgLIyqW5kXvAnnL74UYmgJuwsPwOW3GLUkg/L9RdWuNnFM+fEeM8U1XllZ7+FNIf8dB8PX5EDZ7q1I0uifcOhdNKxEQbQ8OUY7ufsyerzN/MjJTUZKuOFNwvlAI+pryxUbUKSh9Hwjh7MkVCCvUbM38+mzpqIHdcXFOoaBd/NLNPKFq2J5Ao4+Deu46v+9TVFg2xjkI51jEuezDCPjGKBuGXgmX1LzcoF3yW84HV4qDWWr7a42FTVDdhZqkmnK/SlCDroHNz/SO2DjyuZgnIXaS8P+078cZ8AbqgIiz+ZVeJVVPsl5NI9De2h1r3RgSfxvClrjjKiaeoOGj3luPfQj0GxsRhASoccUEl2MShvPpxE88i1cQuwmW10IrA=="
+        },
 	  {
       "key": "卧龙资源",
       "name": "卧龙资源┃App",
@@ -178,25 +190,16 @@
       "changeable": 1,
       "ext": "https://api.tiankongapi.com/api.php/provide/vod/"
    },	
-     {
-      "key": "金鹰资源",
-      "name": "金鹰┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://jyzyapi.com/provide/vod"
-    },
+
    {
-      "key": "秒看资源",
-      "name": "秒看┃App",
+      "key": "shaozeyy",
+      "name": "少泽┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://mkzy.vip/api.php/provide/vod/"
+      "ext": "https://yk.shaozeyy.com/api.php/app/"
     },
     {
       "key": "wxtv",
@@ -209,16 +212,14 @@
       "ext": "https://www.wxtv.net/api.php/app/"
     },
     {
-      "key": "探探",
-      "name": "🏵┃影探┃4K",
+      "key": "heyik",
+      "name": "何以┃App",
       "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "vip.lyyytv.cn",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"
+      "ext": "http://www.heyik.cn/api.php/v1.vod"
     },
     {
       "key": "量子资源",
@@ -1611,7 +1612,10 @@
         "欧美综艺"
       ]
     },
-      {
+
+
+
+    {
       "key": "宝宝风",
       "name": "采集┃宝宝风",
       "type": 0,
@@ -1861,15 +1865,14 @@
 {"key":"无限影视┃APP","name":"无限影视┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 
 {"key":"TV酷┃APP","name":"TV酷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"天空资源","name":"天空┃资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key": "腾云驾雾","name": "腾讯","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/腾云驾雾.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
-
-{"key":"爱奇艺","name":"爱奇艺官源","type":1,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
+{"key":"腾讯","name":"腾讯官源","type":1,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/tengxun.js"},
+{"key":"爱奇艺","name":"爱奇艺官源","type":1,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/iqy.js"},
 {"key":"芒果","name":"芒果┃官源","type":3,"playerType":2,"api":"https://d.kstore.space/download/4677/drpy.min.js","ext":"./js/mangguo.js"},
 {"key":"诺迅资源","name":"诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -1885,8 +1888,8 @@
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"祥祥影视","name":"吉祥资源","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦资源","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"星辰影院","name":"星辰影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/星辰影院.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar"},
-{"key": "dr_EMO蓝光","name":"EMO蓝光","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/EMO蓝光[V2].js"},
+
+
 	  
 {"key":"迷你库┃APP","name":"迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
@@ -3342,7 +3345,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/l529987/av/main/lived.txt",
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/l529987/tv/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -3350,5 +3353,4 @@
     }
   ]
 }
-
 

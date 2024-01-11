@@ -136,7 +136,7 @@
             "key": "极光资源",
             "name": "极光资源",
             "type": 1,
-            "api": "https://jiguang.la/api.php/provide/vod/",
+            "api": "https://jiguang.la/api.php/provide/vod/"
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,

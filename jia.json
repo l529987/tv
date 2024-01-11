@@ -1849,9 +1849,12 @@
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"祥祥影视","name":"吉祥资源","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦资源","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"优众影视","name":"优众影视","type":1,"api":"http://121.205.88.194:7878/xgapp.php/v2/","playUrl":"","searchable":1,"quickSearch":1},
+
 {"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"速看资源","name":"速看资源","type":1,"api":"https://ziyuan.skm3u8.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"最大资源","name":"最大资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"索尼资源","name":"索尼资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"豪华资源","name":"豪华资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 	  

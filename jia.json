@@ -136,15 +136,15 @@
       "ext": "公众号:影视资源站"
     },
      {
-      "key": "闪电",
-      "name": "闪电┃App",
+      "key": "豪华资源",
+      "name": "豪华┃App",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "http://sdzyapi.com/api.php/provide/vod/"
+      "ext": "https://hhzyapi.com/api.php/provide/vod/"
     },
 	  {
       "key": "卧龙资源",

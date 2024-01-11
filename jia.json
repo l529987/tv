@@ -1879,7 +1879,7 @@
 {"key":"忆梦","name":"忆梦资源","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"优众影视","name":"优众影视","type":1,"api":"http://121.205.88.194:7878/xgapp.php/v2/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"独优影视","name":"独优影视","type":1,"api":"http://121.205.88.71:218/api.php/Chengcheng/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"刺猬影视","name":"刺猬影视","type":1,"api":"http://www.cccvvv.top/api.php/iptv/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"速看资源","name":"速看资源","type":1,"api":"https://ziyuan.skm3u8.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 	  

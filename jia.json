@@ -9,12 +9,12 @@
             "key": "",
             "name": "️凰浦资源",
             "type": 1,
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            //"playUrl":"https://jx.xmflv.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        "categories":[                
+            "categories": [                
                 "电影",                
                 "连续剧",                
                 "综艺",
@@ -88,7 +88,23 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","动画片","其他片","其他剧","伦理片"]
     },
-	    {
+	 {
+      "key": "暴風",
+      "name": "暴风2K┃秒播",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {
+            "key": "量子",
+            "name": "👉春盈┃量子",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+	  {
             "key": "芒果资源",
             "name": "️芒果影视",
             "type": 1,

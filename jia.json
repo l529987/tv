@@ -103,15 +103,23 @@
       "key": "暴風",
       "name": "暴风2K┃秒播",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
     },
+      {
+      "key": "闪电",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1
+    },  
  {
             "key": "量子",
             "name": "👉春盈┃量子",
             "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
         },

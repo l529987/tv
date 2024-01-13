@@ -158,7 +158,16 @@
       "changeable": 1,
       "ext": "https://collect.wolongzyw.com/api.php/provide/vod/"
    },	
-
+	{
+        "key": "熊掌",
+        "name": "熊掌|采集",
+        "type": 1,
+        "api": "https://xzcjz.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "categories": ["连续剧", "动漫"]
+ },
         {
             "key": "二三",
             "name": "二三┃App",
@@ -1842,6 +1851,7 @@
 {"key":"无限影视┃APP","name":"无限影视┃APP","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 
 {"key":"TV酷┃APP","name":"TV酷┃APP","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"xml_奇虎","name":"奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

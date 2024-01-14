@@ -5,8 +5,8 @@
     
 
 {
-            "key": "芒果资源",
-            "name": "️芒果影视",
+            "key": "",
+            "name": "️凰浦影院",
             "type": 1,
             "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
             "playUrl":"https://jx.777jiexi.com/player/?url=",

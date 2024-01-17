@@ -139,15 +139,16 @@
       "searchable": 1,
       "changeable": 1
     },
-      {
+       {
       "key": "闪电",
       "name": "闪电资源",
       "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "changeable": 1
-     },   
- {
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+           {
             "key": "量子",
             "name": "👉春盈┃量子",
             "type": 1,
@@ -155,6 +156,42 @@
             "searchable": 1,
             "changeable": 1
         },
+      {
+      "key": "人人影视",
+      "name": "人人影视",
+      "type": 1,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+      {
+      "key": "速博资源",
+      "name": "速博资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+      {
+      "key": "最大资源",
+      "name": "最大资源",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+      {
+      "key": "八戒资源",
+      "name": "八戒资源",
+      "type": 1,
+      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 	{
             "key": "爱奇艺资源",
             "name": "️奇艺影视",

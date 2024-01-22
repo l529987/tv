@@ -5,17 +5,16 @@
     
 
 {
-            "key": "",
-            "name": "️凰浦影院",
-            "type": 1,
-            "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/xml/",
-            "playUrl":"https://jx.777jiexi.com/player/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","古装","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
- {
+    "key":"",
+    "name":"凰浦影院",
+    "type":1,
+    "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育","伦理片"]
+    },
+        {
             "key": "腾讯",
             "name": "️腾讯资源",
             "type": 1,
@@ -82,16 +81,6 @@
                 "伦理片"
             ]
         },
-    {
-    "key":"新浪资源",
-    "name":"新浪资源",
-    "type":1,
-    "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育","伦理片"]
-    },
     {
     "key":"天空资源",
     "name":"天空影院",

@@ -8,7 +8,7 @@
             "key": "",
             "name": "️凰浦影院",
             "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+            "api": "https://leshizyapi.com/api.php/provide/vod/at/xml/",
             "playUrl":"https://jx.777jiexi.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,

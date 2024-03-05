@@ -227,6 +227,42 @@
       "quickSearch": 1,
       "filterable": 1
     },  
+      {
+      "key": "一点官采",
+      "name": "一点官采",
+      "type": 1,
+      "api": "https://collect.movurl.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+      {
+      "key": "至圣云",
+      "name": "至圣云",
+      "type": 1,
+      "api": "http://82.156.40.118:1234/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+      {
+      "key": "享看资源",
+      "name": "享看资源",
+      "type": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+      {
+      "key": "飘零影院",
+      "name": "飘零影院",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
            {
             "key": "量子",
             "name": "👉春盈┃量子",

@@ -142,6 +142,16 @@
     "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育"]
     },  
     {
+    "key":"闪电",
+    "name":"闪电资源",
+    "type":1,
+    "api":"https://sdzyapi.com/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育"]
+    },  
+    {
     "key":"四个圈",
     "name":"四个圈",
     "type":1,
@@ -218,15 +228,6 @@
       "searchable": 1,
       "changeable": 1
     },
-       {
-      "key": "闪电",
-      "name": "闪电资源",
-      "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },  
       {
       "key": "一点官采",
       "name": "一点官采",

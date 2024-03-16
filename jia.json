@@ -222,7 +222,7 @@
       "key": "闪电",
       "name": "闪电资源",
       "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

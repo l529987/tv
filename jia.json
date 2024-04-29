@@ -2082,7 +2082,7 @@
 
 
 
-{"key":"映迷┃APP","name":"映迷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
+{"key":"映迷┃APP","name":"映迷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/api.php/provide/vod/"},
 
 {"key":"UM┃APP","name":"UM┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
  

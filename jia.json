@@ -171,6 +171,16 @@
     "filterable":1,
     "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育"]
     },
+     {
+    "key":"映迷",
+    "name":"映迷",
+    "type":1,
+    "api":"https://www.inmi.app/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育"]
+    },
     {
     "key":"虎牙",
     "name":"虎牙",
@@ -2079,11 +2089,6 @@
 {"key":"小胡","name":"小胡","type":1,"api":"http://c.小胡.icu/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"魔都","name":"魔都","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	  
 {"key":"迷你库┃APP","name":"迷你库┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-
-
-
-{"key":"映迷┃APP","name":"映迷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/api.php/provide/vod/"},
-
 {"key":"UM┃APP","name":"UM┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
  
  

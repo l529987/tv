@@ -125,7 +125,7 @@
     "key":"金鹰",
     "name":"金鹰",
     "type":1,
-    "api":"https://jyzyapi.com/provide/vod/",
+    "api":"https://jyzy3.com/api.php/provide/vod/",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,

@@ -182,6 +182,16 @@
     "categories":["電影","電視劇"]
     },
     {
+    "key":"黑木耳",
+    "name":"黑木耳",
+    "type":1,
+    "api":"https://www.heimuer.tv/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育"]
+    },
+    {
     "key":"虎牙",
     "name":"虎牙",
     "type":1,

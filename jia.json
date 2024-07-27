@@ -3546,7 +3546,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.com/l529987/av/edit/main/lived.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/l529987/av/main/lived.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",

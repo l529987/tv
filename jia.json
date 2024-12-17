@@ -3546,7 +3546,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/l529987/av/refs/heads/main/lived.txt",
+      "url": "https://notabug.org/l529987/ABC/raw/master/lived.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
